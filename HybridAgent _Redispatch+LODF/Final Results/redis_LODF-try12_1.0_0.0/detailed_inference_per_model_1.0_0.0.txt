@@ -1,0 +1,8 @@
+model: 55000_
+Average Values Below Rho: [99.92544683392525, 0.07455316607473525, 0.0, 0.0]
+Average Values Above Rho: [0.0, 0.9038313720221228, 16.243805539746187, 82.85236308823171]
+Average ST: 6776.65625
+Average Cumulative RL Reward: 5895.943224430207
+Average Cumulative Margin Reward: 347440.80225002766
+Average Margin to ST Ratio: 50.82445538922275
+Average Redis Cost: 76596.41388230026

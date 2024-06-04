@@ -1,0 +1,18 @@
+{
+  "lr": 0.0005,
+  "lr_decay_steps": 1024,
+  "lr_decay_rate": 1,
+  "batch_size": 64,
+  "stack_frames": 6,
+  "iter": 100000.0,
+  "e_start": 0.9999,
+  "e_end": 0.05,
+  "e_decay": 26880,
+  "discount": 0.99,
+  "per_alpha": 0.8,
+  "per_beta": 0.5,
+  "per_capacity": 96256,
+  "update_freq": 1,
+  "update_hard": -1,
+  "update_soft": 0.001
+}

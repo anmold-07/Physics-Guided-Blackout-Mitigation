@@ -1,0 +1,11 @@
+{
+    "agent_seed": null,
+    "backend_type": "LightSimBackend_l2rpn_neurips_2020_track1_small_test_random_32",
+    "chronics_max_timestep": "8062",
+    "chronics_path": "C:\\Users\\dwivea2\\data_grid2op\\l2rpn_neurips_2020_track1_small_test_random_32\\chronics\\Scenario_march_016",
+    "cumulative_reward": 6599.977702212911,
+    "env_seed": 21,
+    "env_type": "Environment_l2rpn_neurips_2020_track1_small_test_random_32",
+    "grid_path": "C:\\Users\\dwivea2\\data_grid2op\\l2rpn_neurips_2020_track1_small_test_random_32\\grid.json",
+    "nb_timestep_played": 8062
+}

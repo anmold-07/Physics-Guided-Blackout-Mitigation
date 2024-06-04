@@ -1,0 +1,7542 @@
+[
+    {
+        "action_cost": 0.0,
+        "margin_reward": 50.656280517578125
+    },
+    {
+        "action_cost": 0.0,
+        "margin_reward": 50.69938278198242
+    },
+    {
+        "action_cost": 0.0,
+        "margin_reward": 50.75748062133789
+    },
+    {
+        "action_cost": 0.0,
+        "margin_reward": 50.759033203125
+    },
+    {
+        "action_cost": 0.0,
+        "margin_reward": 50.87639236450195
+    },
+    {
+        "action_cost": 0.0,
+        "margin_reward": 50.82914352416992
+    },
+    {
+        "action_cost": 0.0,
+        "margin_reward": 50.995975494384766
+    },
+    {
+        "action_cost": 0.0,
+        "margin_reward": 50.91722869873047
+    },
+    {
+        "action_cost": 0.0,
+        "margin_reward": 50.97723388671875
+    },
+    {
+        "action_cost": 0.0,
+        "margin_reward": 51.000816345214844
+    },
+    {
+        "action_cost": 0.0,
+        "margin_reward": 50.947288513183594
+    },
+    {
+        "action_cost": 0.0,
+        "margin_reward": 50.835636138916016
+    },
+    {
+        "action_cost": 0.0,
+        "margin_reward": 50.87883758544922
+    },
+    {
+        "action_cost": 0.0,
+        "margin_reward": 50.8337516784668
+    },
+    {
+        "action_cost": 0.0,
+        "margin_reward": 50.55340576171875
+    },
+    {
+        "action_cost": 0.0,
+        "margin_reward": 50.382999420166016
+    },
+    {
+        "action_cost": 0.0,
+        "margin_reward": 50.36648178100586
+    },
+    {
+        "action_cost": 0.0,
+        "margin_reward": 50.31613540649414
+    },
+    {
+        "action_cost": 0.0,
+        "margin_reward": 50.46556091308594
+    },
+    {
+        "action_cost": 0.0,
+        "margin_reward": 50.347999572753906
+    },
+    {
+        "action_cost": 0.0,
+        "margin_reward": 50.43161392211914
+    },
+    {
+        "action_cost": 0.0,
+        "margin_reward": 50.23429489135742
+    },
+    {
+        "action_cost": 0.0,
+        "margin_reward": 50.27730178833008
+    },
+    {
+        "action_cost": 0.0,
+        "margin_reward": 50.25111770629883
+    },
+    {
+        "action_cost": 0.0,
+        "margin_reward": 50.09879684448242
+    },
+    {
+        "action_cost": 0.0,
+        "margin_reward": 50.037322998046875
+    },
+    {
+        "action_cost": 0.0,
+        "margin_reward": 49.88547897338867
+    },
+    {
+        "action_cost": 0.0,
+        "margin_reward": 49.91847610473633
+    },
+    {
+        "action_cost": 0.0,
+        "margin_reward": 49.82019805908203
+    },
+    {
+        "action_cost": 0.0,
+        "margin_reward": 49.4378662109375
+    },
+    {
+        "action_cost": 0.0,
+        "margin_reward": 49.19120407104492
+    },
+    {
+        "action_cost": 0.0,
+        "margin_reward": 48.8463020324707
+    },
+    {
+        "action_cost": 0.0,
+        "margin_reward": 48.596431732177734
+    },
+    {
+        "action_cost": 0.0,
+        "margin_reward": 48.22572708129883
+    },
+    {
+        "action_cost": 0.0,
+        "margin_reward": 47.92091751098633
+    },
+    {
+        "action_cost": 0.0,
+        "margin_reward": 48.011966705322266
+    },
+    {
+        "action_cost": 0.0,
+        "margin_reward": 47.452449798583984
+    },
+    {
+        "action_cost": 0.0,
+        "margin_reward": 47.1912841796875
+    },
+    {
+        "action_cost": 0.0,
+        "margin_reward": 46.79629135131836
+    },
+    {
+        "action_cost": 0.0,
+        "margin_reward": 46.9414176940918
+    },
+    {
+        "action_cost": 0.0,
+        "margin_reward": 46.79216384887695
+    },
+    {
+        "action_cost": 0.0,
+        "margin_reward": 46.63678741455078
+    },
+    {
+        "action_cost": 0.0,
+        "margin_reward": 46.55525588989258
+    },
+    {
+        "action_cost": 0.0,
+        "margin_reward": 46.41829299926758
+    },
+    {
+        "action_cost": 0.0,
+        "margin_reward": 46.24797821044922
+    },
+    {
+        "action_cost": 0.0,
+        "margin_reward": 46.35455322265625
+    },
+    {
+        "action_cost": 0.0,
+        "margin_reward": 46.15804672241211
+    },
+    {
+        "action_cost": 0.0,
+        "margin_reward": 45.888771057128906
+    },
+    {
+        "action_cost": 0.0,
+        "margin_reward": 45.922607421875
+    },
+    {
+        "action_cost": 0.0,
+        "margin_reward": 45.65266418457031
+    },
+    {
+        "action_cost": 0.0,
+        "margin_reward": 45.7767448425293
+    },
+    {
+        "action_cost": 0.0,
+        "margin_reward": 45.875980377197266
+    },
+    {
+        "action_cost": 0.0,
+        "margin_reward": 45.76732635498047
+    },
+    {
+        "action_cost": 0.0,
+        "margin_reward": 45.67338943481445
+    },
+    {
+        "action_cost": 0.0,
+        "margin_reward": 45.942893981933594
+    },
+    {
+        "action_cost": 0.0,
+        "margin_reward": 45.8333854675293
+    },
+    {
+        "action_cost": 0.0,
+        "margin_reward": 45.931922912597656
+    },
+    {
+        "action_cost": 0.0,
+        "margin_reward": 45.9889030456543
+    },
+    {
+        "action_cost": 0.0,
+        "margin_reward": 45.71965026855469
+    },
+    {
+        "action_cost": 0.0,
+        "margin_reward": 45.95412826538086
+    },
+    {
+        "action_cost": 0.0,
+        "margin_reward": 45.80015182495117
+    },
+    {
+        "action_cost": 0.0,
+        "margin_reward": 45.888038635253906
+    },
+    {
+        "action_cost": 0.0,
+        "margin_reward": 45.82158279418945
+    },
+    {
+        "action_cost": 0.0,
+        "margin_reward": 45.702720642089844
+    },
+    {
+        "action_cost": 0.0,
+        "margin_reward": 45.60207748413086
+    },
+    {
+        "action_cost": 0.0,
+        "margin_reward": 45.58281707763672
+    },
+    {
+        "action_cost": 0.0,
+        "margin_reward": 45.77924346923828
+    },
+    {
+        "action_cost": 0.0,
+        "margin_reward": 45.5732536315918
+    },
+    {
+        "action_cost": 0.0,
+        "margin_reward": 45.60664367675781
+    },
+    {
+        "action_cost": 0.0,
+        "margin_reward": 45.69561767578125
+    },
+    {
+        "action_cost": 0.0,
+        "margin_reward": 45.56300735473633
+    },
+    {
+        "action_cost": 0.0,
+        "margin_reward": 45.72138977050781
+    },
+    {
+        "action_cost": 0.0,
+        "margin_reward": 45.41240692138672
+    },
+    {
+        "action_cost": 0.0,
+        "margin_reward": 45.5153694152832
+    },
+    {
+        "action_cost": 0.0,
+        "margin_reward": 45.83901596069336
+    },
+    {
+        "action_cost": 0.0,
+        "margin_reward": 45.860923767089844
+    },
+    {
+        "action_cost": 0.0,
+        "margin_reward": 45.94069290161133
+    },
+    {
+        "action_cost": 0.0,
+        "margin_reward": 45.886741638183594
+    },
+    {
+        "action_cost": 0.0,
+        "margin_reward": 46.080413818359375
+    },
+    {
+        "action_cost": 0.0,
+        "margin_reward": 46.292640686035156
+    },
+    {
+        "action_cost": 0.0,
+        "margin_reward": 46.1845703125
+    },
+    {
+        "action_cost": 0.0,
+        "margin_reward": 46.3028678894043
+    },
+    {
+        "action_cost": 0.0,
+        "margin_reward": 46.54090118408203
+    },
+    {
+        "action_cost": 0.0,
+        "margin_reward": 46.581661224365234
+    },
+    {
+        "action_cost": 0.0,
+        "margin_reward": 47.10122299194336
+    },
+    {
+        "action_cost": 0.0,
+        "margin_reward": 46.919883728027344
+    },
+    {
+        "action_cost": 0.0,
+        "margin_reward": 47.21526336669922
+    },
+    {
+        "action_cost": 0.0,
+        "margin_reward": 47.55946350097656
+    },
+    {
+        "action_cost": 0.0,
+        "margin_reward": 47.2419548034668
+    },
+    {
+        "action_cost": 0.0,
+        "margin_reward": 47.8303337097168
+    },
+    {
+        "action_cost": 0.0,
+        "margin_reward": 47.72163009643555
+    },
+    {
+        "action_cost": 0.0,
+        "margin_reward": 48.180599212646484
+    },
+    {
+        "action_cost": 0.0,
+        "margin_reward": 48.12053680419922
+    },
+    {
+        "action_cost": 0.0,
+        "margin_reward": 48.211326599121094
+    },
+    {
+        "action_cost": 0.0,
+        "margin_reward": 48.47271728515625
+    },
+    {
+        "action_cost": 0.0,
+        "margin_reward": 48.411720275878906
+    },
+    {
+        "action_cost": 0.0,
+        "margin_reward": 48.67578887939453
+    },
+    {
+        "action_cost": 0.0,
+        "margin_reward": 48.756614685058594
+    },
+    {
+        "action_cost": 0.0,
+        "margin_reward": 48.933467864990234
+    },
+    {
+        "action_cost": 0.0,
+        "margin_reward": 49.262962341308594
+    },
+    {
+        "action_cost": 0.0,
+        "margin_reward": 49.55826187133789
+    },
+    {
+        "action_cost": 0.0,
+        "margin_reward": 49.58069610595703
+    },
+    {
+        "action_cost": 0.0,
+        "margin_reward": 49.656394958496094
+    },
+    {
+        "action_cost": 0.0,
+        "margin_reward": 49.71624755859375
+    },
+    {
+        "action_cost": 0.0,
+        "margin_reward": 49.73772430419922
+    },
+    {
+        "action_cost": 0.0,
+        "margin_reward": 50.017887115478516
+    },
+    {
+        "action_cost": 0.0,
+        "margin_reward": 50.02776336669922
+    },
+    {
+        "action_cost": 0.0,
+        "margin_reward": 50.00055694580078
+    },
+    {
+        "action_cost": 0.0,
+        "margin_reward": 50.27348327636719
+    },
+    {
+        "action_cost": 0.0,
+        "margin_reward": 50.228519439697266
+    },
+    {
+        "action_cost": 0.0,
+        "margin_reward": 50.3929443359375
+    },
+    {
+        "action_cost": 0.0,
+        "margin_reward": 50.43309020996094
+    },
+    {
+        "action_cost": 0.0,
+        "margin_reward": 50.653194427490234
+    },
+    {
+        "action_cost": 0.0,
+        "margin_reward": 50.85005569458008
+    },
+    {
+        "action_cost": 0.0,
+        "margin_reward": 50.92616271972656
+    },
+    {
+        "action_cost": 0.0,
+        "margin_reward": 50.96250534057617
+    },
+    {
+        "action_cost": 0.0,
+        "margin_reward": 50.98027420043945
+    },
+    {
+        "action_cost": 0.0,
+        "margin_reward": 51.18411636352539
+    },
+    {
+        "action_cost": 0.0,
+        "margin_reward": 51.15327835083008
+    },
+    {
+        "action_cost": 0.0,
+        "margin_reward": 51.332054138183594
+    },
+    {
+        "action_cost": 0.0,
+        "margin_reward": 51.365333557128906
+    },
+    {
+        "action_cost": 0.0,
+        "margin_reward": 51.452144622802734
+    },
+    {
+        "action_cost": 0.0,
+        "margin_reward": 51.25912857055664
+    },
+    {
+        "action_cost": 0.0,
+        "margin_reward": 51.321834564208984
+    },
+    {
+        "action_cost": 0.0,
+        "margin_reward": 51.08875274658203
+    },
+    {
+        "action_cost": 0.0,
+        "margin_reward": 50.972900390625
+    },
+    {
+        "action_cost": 0.0,
+        "margin_reward": 50.885353088378906
+    },
+    {
+        "action_cost": 0.0,
+        "margin_reward": 50.81952667236328
+    },
+    {
+        "action_cost": 0.0,
+        "margin_reward": 50.570560455322266
+    },
+    {
+        "action_cost": 0.0,
+        "margin_reward": 50.523983001708984
+    },
+    {
+        "action_cost": 0.0,
+        "margin_reward": 50.34322738647461
+    },
+    {
+        "action_cost": 0.0,
+        "margin_reward": 50.460514068603516
+    },
+    {
+        "action_cost": 0.0,
+        "margin_reward": 50.656837463378906
+    },
+    {
+        "action_cost": 0.0,
+        "margin_reward": 50.472869873046875
+    },
+    {
+        "action_cost": 0.0,
+        "margin_reward": 50.756683349609375
+    },
+    {
+        "action_cost": 0.0,
+        "margin_reward": 50.8734016418457
+    },
+    {
+        "action_cost": 0.0,
+        "margin_reward": 50.950801849365234
+    },
+    {
+        "action_cost": 0.0,
+        "margin_reward": 51.12252426147461
+    },
+    {
+        "action_cost": 0.0,
+        "margin_reward": 51.08676528930664
+    },
+    {
+        "action_cost": 0.0,
+        "margin_reward": 51.121742248535156
+    },
+    {
+        "action_cost": 0.0,
+        "margin_reward": 51.25739669799805
+    },
+    {
+        "action_cost": 0.0,
+        "margin_reward": 51.359046936035156
+    },
+    {
+        "action_cost": 0.0,
+        "margin_reward": 51.412471771240234
+    },
+    {
+        "action_cost": 0.0,
+        "margin_reward": 51.58673858642578
+    },
+    {
+        "action_cost": 0.0,
+        "margin_reward": 51.68404769897461
+    },
+    {
+        "action_cost": 0.0,
+        "margin_reward": 51.71945571899414
+    },
+    {
+        "action_cost": 0.0,
+        "margin_reward": 51.82779312133789
+    },
+    {
+        "action_cost": 0.0,
+        "margin_reward": 51.86065673828125
+    },
+    {
+        "action_cost": 0.0,
+        "margin_reward": 51.865623474121094
+    },
+    {
+        "action_cost": 0.0,
+        "margin_reward": 51.908443450927734
+    },
+    {
+        "action_cost": 0.0,
+        "margin_reward": 51.96302032470703
+    },
+    {
+        "action_cost": 0.0,
+        "margin_reward": 51.91556930541992
+    },
+    {
+        "action_cost": 0.0,
+        "margin_reward": 51.959983825683594
+    },
+    {
+        "action_cost": 0.0,
+        "margin_reward": 51.962928771972656
+    },
+    {
+        "action_cost": 0.0,
+        "margin_reward": 51.97708511352539
+    },
+    {
+        "action_cost": 0.0,
+        "margin_reward": 51.903411865234375
+    },
+    {
+        "action_cost": 0.0,
+        "margin_reward": 51.89506912231445
+    },
+    {
+        "action_cost": 0.0,
+        "margin_reward": 51.698822021484375
+    },
+    {
+        "action_cost": 0.0,
+        "margin_reward": 51.714420318603516
+    },
+    {
+        "action_cost": 0.0,
+        "margin_reward": 51.66893768310547
+    },
+    {
+        "action_cost": 0.0,
+        "margin_reward": 51.66785430908203
+    },
+    {
+        "action_cost": 0.0,
+        "margin_reward": 51.68821716308594
+    },
+    {
+        "action_cost": 0.0,
+        "margin_reward": 51.60737609863281
+    },
+    {
+        "action_cost": 0.0,
+        "margin_reward": 51.55196762084961
+    },
+    {
+        "action_cost": 0.0,
+        "margin_reward": 51.475555419921875
+    },
+    {
+        "action_cost": 0.0,
+        "margin_reward": 51.31798553466797
+    },
+    {
+        "action_cost": 0.0,
+        "margin_reward": 51.178245544433594
+    },
+    {
+        "action_cost": 0.0,
+        "margin_reward": 51.122127532958984
+    },
+    {
+        "action_cost": 0.0,
+        "margin_reward": 50.905494689941406
+    },
+    {
+        "action_cost": 0.0,
+        "margin_reward": 50.77971649169922
+    },
+    {
+        "action_cost": 0.0,
+        "margin_reward": 50.672637939453125
+    },
+    {
+        "action_cost": 0.0,
+        "margin_reward": 50.540321350097656
+    },
+    {
+        "action_cost": 0.0,
+        "margin_reward": 50.315956115722656
+    },
+    {
+        "action_cost": 0.0,
+        "margin_reward": 50.29707717895508
+    },
+    {
+        "action_cost": 0.0,
+        "margin_reward": 50.060428619384766
+    },
+    {
+        "action_cost": 0.0,
+        "margin_reward": 49.75780487060547
+    },
+    {
+        "action_cost": 0.0,
+        "margin_reward": 49.76155090332031
+    },
+    {
+        "action_cost": 0.0,
+        "margin_reward": 49.49618148803711
+    },
+    {
+        "action_cost": 0.0,
+        "margin_reward": 49.28153610229492
+    },
+    {
+        "action_cost": 0.0,
+        "margin_reward": 49.299537658691406
+    },
+    {
+        "action_cost": 0.0,
+        "margin_reward": 49.01437759399414
+    },
+    {
+        "action_cost": 0.0,
+        "margin_reward": 49.09233093261719
+    },
+    {
+        "action_cost": 0.0,
+        "margin_reward": 49.0450325012207
+    },
+    {
+        "action_cost": 0.0,
+        "margin_reward": 48.971134185791016
+    },
+    {
+        "action_cost": 0.0,
+        "margin_reward": 49.048221588134766
+    },
+    {
+        "action_cost": 0.0,
+        "margin_reward": 48.95416259765625
+    },
+    {
+        "action_cost": 0.0,
+        "margin_reward": 49.333980560302734
+    },
+    {
+        "action_cost": 0.0,
+        "margin_reward": 49.047733306884766
+    },
+    {
+        "action_cost": 0.0,
+        "margin_reward": 48.76307678222656
+    },
+    {
+        "action_cost": 0.0,
+        "margin_reward": 48.64612579345703
+    },
+    {
+        "action_cost": 0.0,
+        "margin_reward": 48.46479034423828
+    },
+    {
+        "action_cost": 0.0,
+        "margin_reward": 48.62539291381836
+    },
+    {
+        "action_cost": 0.0,
+        "margin_reward": 48.402854919433594
+    },
+    {
+        "action_cost": 0.0,
+        "margin_reward": 48.4321174621582
+    },
+    {
+        "action_cost": 0.0,
+        "margin_reward": 48.142539978027344
+    },
+    {
+        "action_cost": 0.0,
+        "margin_reward": 48.29142761230469
+    },
+    {
+        "action_cost": 0.0,
+        "margin_reward": 48.0858154296875
+    },
+    {
+        "action_cost": 0.0,
+        "margin_reward": 47.85519790649414
+    },
+    {
+        "action_cost": 0.0,
+        "margin_reward": 47.714420318603516
+    },
+    {
+        "action_cost": 0.0,
+        "margin_reward": 47.693115234375
+    },
+    {
+        "action_cost": 0.0,
+        "margin_reward": 47.58753204345703
+    },
+    {
+        "action_cost": 0.0,
+        "margin_reward": 47.72599411010742
+    },
+    {
+        "action_cost": 0.0,
+        "margin_reward": 47.405555725097656
+    },
+    {
+        "action_cost": 0.0,
+        "margin_reward": 47.26482009887695
+    },
+    {
+        "action_cost": 0.0,
+        "margin_reward": 47.356632232666016
+    },
+    {
+        "action_cost": 0.0,
+        "margin_reward": 47.371219635009766
+    },
+    {
+        "action_cost": 0.0,
+        "margin_reward": 47.04033660888672
+    },
+    {
+        "action_cost": 0.0,
+        "margin_reward": 47.17784881591797
+    },
+    {
+        "action_cost": 0.0,
+        "margin_reward": 47.044002532958984
+    },
+    {
+        "action_cost": 0.0,
+        "margin_reward": 47.21295928955078
+    },
+    {
+        "action_cost": 0.0,
+        "margin_reward": 47.21794509887695
+    },
+    {
+        "action_cost": 0.0,
+        "margin_reward": 47.40968322753906
+    },
+    {
+        "action_cost": 0.0,
+        "margin_reward": 47.60964584350586
+    },
+    {
+        "action_cost": 0.0,
+        "margin_reward": 47.769771575927734
+    },
+    {
+        "action_cost": 0.0,
+        "margin_reward": 47.96015548706055
+    },
+    {
+        "action_cost": 0.0,
+        "margin_reward": 48.11189651489258
+    },
+    {
+        "action_cost": 0.0,
+        "margin_reward": 48.274757385253906
+    },
+    {
+        "action_cost": 0.0,
+        "margin_reward": 48.5736083984375
+    },
+    {
+        "action_cost": 0.0,
+        "margin_reward": 48.69190216064453
+    },
+    {
+        "action_cost": 0.0,
+        "margin_reward": 48.81376266479492
+    },
+    {
+        "action_cost": 0.0,
+        "margin_reward": 48.832130432128906
+    },
+    {
+        "action_cost": 0.0,
+        "margin_reward": 49.25510787963867
+    },
+    {
+        "action_cost": 0.0,
+        "margin_reward": 49.420406341552734
+    },
+    {
+        "action_cost": 0.0,
+        "margin_reward": 49.61561965942383
+    },
+    {
+        "action_cost": 0.0,
+        "margin_reward": 49.611236572265625
+    },
+    {
+        "action_cost": 0.0,
+        "margin_reward": 49.56695556640625
+    },
+    {
+        "action_cost": 0.0,
+        "margin_reward": 49.717926025390625
+    },
+    {
+        "action_cost": 0.0,
+        "margin_reward": 49.7651481628418
+    },
+    {
+        "action_cost": 0.0,
+        "margin_reward": 49.76130294799805
+    },
+    {
+        "action_cost": 0.0,
+        "margin_reward": 49.9365234375
+    },
+    {
+        "action_cost": 0.0,
+        "margin_reward": 49.86391830444336
+    },
+    {
+        "action_cost": 0.0,
+        "margin_reward": 49.97616958618164
+    },
+    {
+        "action_cost": 0.0,
+        "margin_reward": 49.934722900390625
+    },
+    {
+        "action_cost": 0.0,
+        "margin_reward": 50.00419998168945
+    },
+    {
+        "action_cost": 0.0,
+        "margin_reward": 49.98715591430664
+    },
+    {
+        "action_cost": 0.0,
+        "margin_reward": 49.968074798583984
+    },
+    {
+        "action_cost": 0.0,
+        "margin_reward": 49.876522064208984
+    },
+    {
+        "action_cost": 0.0,
+        "margin_reward": 49.97565460205078
+    },
+    {
+        "action_cost": 0.0,
+        "margin_reward": 49.91954803466797
+    },
+    {
+        "action_cost": 0.0,
+        "margin_reward": 50.077754974365234
+    },
+    {
+        "action_cost": 0.0,
+        "margin_reward": 49.902305603027344
+    },
+    {
+        "action_cost": 0.0,
+        "margin_reward": 49.9916877746582
+    },
+    {
+        "action_cost": 0.0,
+        "margin_reward": 49.94261169433594
+    },
+    {
+        "action_cost": 0.0,
+        "margin_reward": 49.84178924560547
+    },
+    {
+        "action_cost": 0.0,
+        "margin_reward": 49.789730072021484
+    },
+    {
+        "action_cost": 0.0,
+        "margin_reward": 49.743465423583984
+    },
+    {
+        "action_cost": 0.0,
+        "margin_reward": 49.79587173461914
+    },
+    {
+        "action_cost": 0.0,
+        "margin_reward": 49.69078063964844
+    },
+    {
+        "action_cost": 0.0,
+        "margin_reward": 49.60681915283203
+    },
+    {
+        "action_cost": 0.0,
+        "margin_reward": 49.61619567871094
+    },
+    {
+        "action_cost": 0.0,
+        "margin_reward": 49.50270080566406
+    },
+    {
+        "action_cost": 0.0,
+        "margin_reward": 49.43168640136719
+    },
+    {
+        "action_cost": 0.0,
+        "margin_reward": 49.44784164428711
+    },
+    {
+        "action_cost": 0.0,
+        "margin_reward": 49.34706497192383
+    },
+    {
+        "action_cost": 0.0,
+        "margin_reward": 49.231197357177734
+    },
+    {
+        "action_cost": 0.0,
+        "margin_reward": 49.122520446777344
+    },
+    {
+        "action_cost": 0.0,
+        "margin_reward": 49.2924919128418
+    },
+    {
+        "action_cost": 0.0,
+        "margin_reward": 49.18097686767578
+    },
+    {
+        "action_cost": 0.0,
+        "margin_reward": 49.07819747924805
+    },
+    {
+        "action_cost": 0.0,
+        "margin_reward": 49.20732116699219
+    },
+    {
+        "action_cost": 0.0,
+        "margin_reward": 49.08359146118164
+    },
+    {
+        "action_cost": 0.0,
+        "margin_reward": 49.061668395996094
+    },
+    {
+        "action_cost": 0.0,
+        "margin_reward": 49.098209381103516
+    },
+    {
+        "action_cost": 0.0,
+        "margin_reward": 48.972782135009766
+    },
+    {
+        "action_cost": 0.0,
+        "margin_reward": 48.997371673583984
+    },
+    {
+        "action_cost": 0.0,
+        "margin_reward": 49.20346450805664
+    },
+    {
+        "action_cost": 0.0,
+        "margin_reward": 49.26021957397461
+    },
+    {
+        "action_cost": 0.0,
+        "margin_reward": 49.303836822509766
+    },
+    {
+        "action_cost": 0.0,
+        "margin_reward": 49.630577087402344
+    },
+    {
+        "action_cost": 0.0,
+        "margin_reward": 49.84163284301758
+    },
+    {
+        "action_cost": 0.0,
+        "margin_reward": 50.15469741821289
+    },
+    {
+        "action_cost": 0.0,
+        "margin_reward": 50.245750427246094
+    },
+    {
+        "action_cost": 0.0,
+        "margin_reward": 50.28144073486328
+    },
+    {
+        "action_cost": 0.0,
+        "margin_reward": 50.46243667602539
+    },
+    {
+        "action_cost": 0.0,
+        "margin_reward": 50.38508987426758
+    },
+    {
+        "action_cost": 0.0,
+        "margin_reward": 50.39653778076172
+    },
+    {
+        "action_cost": 0.0,
+        "margin_reward": 50.496028900146484
+    },
+    {
+        "action_cost": 0.0,
+        "margin_reward": 50.684837341308594
+    },
+    {
+        "action_cost": 0.0,
+        "margin_reward": 50.69481658935547
+    },
+    {
+        "action_cost": 0.0,
+        "margin_reward": 50.8054313659668
+    },
+    {
+        "action_cost": 0.0,
+        "margin_reward": 50.9339599609375
+    },
+    {
+        "action_cost": 0.0,
+        "margin_reward": 51.127986907958984
+    },
+    {
+        "action_cost": 0.0,
+        "margin_reward": 50.990150451660156
+    },
+    {
+        "action_cost": 0.0,
+        "margin_reward": 51.07491683959961
+    },
+    {
+        "action_cost": 0.0,
+        "margin_reward": 51.09552001953125
+    },
+    {
+        "action_cost": 0.0,
+        "margin_reward": 51.06358337402344
+    },
+    {
+        "action_cost": 0.0,
+        "margin_reward": 51.03989028930664
+    },
+    {
+        "action_cost": 0.0,
+        "margin_reward": 51.15278625488281
+    },
+    {
+        "action_cost": 0.0,
+        "margin_reward": 50.98122024536133
+    },
+    {
+        "action_cost": 0.0,
+        "margin_reward": 50.75305938720703
+    },
+    {
+        "action_cost": 0.0,
+        "margin_reward": 50.64186477661133
+    },
+    {
+        "action_cost": 0.0,
+        "margin_reward": 50.5214958190918
+    },
+    {
+        "action_cost": 0.0,
+        "margin_reward": 50.45862579345703
+    },
+    {
+        "action_cost": 0.0,
+        "margin_reward": 50.207523345947266
+    },
+    {
+        "action_cost": 0.0,
+        "margin_reward": 50.06624984741211
+    },
+    {
+        "action_cost": 0.0,
+        "margin_reward": 49.97121810913086
+    },
+    {
+        "action_cost": 0.0,
+        "margin_reward": 49.9454345703125
+    },
+    {
+        "action_cost": 0.0,
+        "margin_reward": 49.665199279785156
+    },
+    {
+        "action_cost": 0.0,
+        "margin_reward": 49.33012008666992
+    },
+    {
+        "action_cost": 0.0,
+        "margin_reward": 49.2546501159668
+    },
+    {
+        "action_cost": 0.0,
+        "margin_reward": 49.034019470214844
+    },
+    {
+        "action_cost": 0.0,
+        "margin_reward": 48.63214111328125
+    },
+    {
+        "action_cost": 0.0,
+        "margin_reward": 48.4373664855957
+    },
+    {
+        "action_cost": 0.0,
+        "margin_reward": 48.047611236572266
+    },
+    {
+        "action_cost": 0.0,
+        "margin_reward": 47.860721588134766
+    },
+    {
+        "action_cost": 0.0,
+        "margin_reward": 47.80428695678711
+    },
+    {
+        "action_cost": 0.0,
+        "margin_reward": 47.760719299316406
+    },
+    {
+        "action_cost": 0.0,
+        "margin_reward": 47.548648834228516
+    },
+    {
+        "action_cost": 0.0,
+        "margin_reward": 47.90943145751953
+    },
+    {
+        "action_cost": 0.0,
+        "margin_reward": 47.40508270263672
+    },
+    {
+        "action_cost": 0.0,
+        "margin_reward": 47.28926467895508
+    },
+    {
+        "action_cost": 0.0,
+        "margin_reward": 47.39895248413086
+    },
+    {
+        "action_cost": 0.0,
+        "margin_reward": 47.32741928100586
+    },
+    {
+        "action_cost": 0.0,
+        "margin_reward": 47.27758026123047
+    },
+    {
+        "action_cost": 0.0,
+        "margin_reward": 47.45976638793945
+    },
+    {
+        "action_cost": 0.0,
+        "margin_reward": 47.379737854003906
+    },
+    {
+        "action_cost": 0.0,
+        "margin_reward": 47.00295639038086
+    },
+    {
+        "action_cost": 0.0,
+        "margin_reward": 46.81427001953125
+    },
+    {
+        "action_cost": 0.0,
+        "margin_reward": 46.9250373840332
+    },
+    {
+        "action_cost": 0.0,
+        "margin_reward": 46.51752471923828
+    },
+    {
+        "action_cost": 0.0,
+        "margin_reward": 46.637420654296875
+    },
+    {
+        "action_cost": 0.0,
+        "margin_reward": 46.5158805847168
+    },
+    {
+        "action_cost": 0.0,
+        "margin_reward": 46.474769592285156
+    },
+    {
+        "action_cost": 0.0,
+        "margin_reward": 46.552345275878906
+    },
+    {
+        "action_cost": 0.0,
+        "margin_reward": 46.590797424316406
+    },
+    {
+        "action_cost": 0.0,
+        "margin_reward": 46.6258659362793
+    },
+    {
+        "action_cost": 0.0,
+        "margin_reward": 46.72541427612305
+    },
+    {
+        "action_cost": 0.0,
+        "margin_reward": 46.89146423339844
+    },
+    {
+        "action_cost": 0.0,
+        "margin_reward": 47.00546646118164
+    },
+    {
+        "action_cost": 0.0,
+        "margin_reward": 47.102108001708984
+    },
+    {
+        "action_cost": 0.0,
+        "margin_reward": 47.224525451660156
+    },
+    {
+        "action_cost": 0.0,
+        "margin_reward": 47.201988220214844
+    },
+    {
+        "action_cost": 0.0,
+        "margin_reward": 47.230709075927734
+    },
+    {
+        "action_cost": 0.0,
+        "margin_reward": 47.502044677734375
+    },
+    {
+        "action_cost": 0.0,
+        "margin_reward": 47.64478302001953
+    },
+    {
+        "action_cost": 0.0,
+        "margin_reward": 47.40578842163086
+    },
+    {
+        "action_cost": 0.0,
+        "margin_reward": 47.65131378173828
+    },
+    {
+        "action_cost": 0.0,
+        "margin_reward": 47.69944381713867
+    },
+    {
+        "action_cost": 0.0,
+        "margin_reward": 47.77805709838867
+    },
+    {
+        "action_cost": 0.0,
+        "margin_reward": 47.7128791809082
+    },
+    {
+        "action_cost": 0.0,
+        "margin_reward": 47.6509895324707
+    },
+    {
+        "action_cost": 0.0,
+        "margin_reward": 47.850486755371094
+    },
+    {
+        "action_cost": 0.0,
+        "margin_reward": 47.859195709228516
+    },
+    {
+        "action_cost": 0.0,
+        "margin_reward": 47.96250534057617
+    },
+    {
+        "action_cost": 0.0,
+        "margin_reward": 47.9792366027832
+    },
+    {
+        "action_cost": 0.0,
+        "margin_reward": 47.86288070678711
+    },
+    {
+        "action_cost": 0.0,
+        "margin_reward": 48.0224494934082
+    },
+    {
+        "action_cost": 0.0,
+        "margin_reward": 48.14536666870117
+    },
+    {
+        "action_cost": 0.0,
+        "margin_reward": 48.05921173095703
+    },
+    {
+        "action_cost": 0.0,
+        "margin_reward": 47.9840202331543
+    },
+    {
+        "action_cost": 0.0,
+        "margin_reward": 47.949459075927734
+    },
+    {
+        "action_cost": 0.0,
+        "margin_reward": 47.82406234741211
+    },
+    {
+        "action_cost": 0.0,
+        "margin_reward": 47.87129211425781
+    },
+    {
+        "action_cost": 0.0,
+        "margin_reward": 47.75412368774414
+    },
+    {
+        "action_cost": 0.0,
+        "margin_reward": 47.81804656982422
+    },
+    {
+        "action_cost": 0.0,
+        "margin_reward": 47.736000061035156
+    },
+    {
+        "action_cost": 0.0,
+        "margin_reward": 47.750362396240234
+    },
+    {
+        "action_cost": 0.0,
+        "margin_reward": 47.624534606933594
+    },
+    {
+        "action_cost": 0.0,
+        "margin_reward": 47.619380950927734
+    },
+    {
+        "action_cost": 0.0,
+        "margin_reward": 47.62754440307617
+    },
+    {
+        "action_cost": 0.0,
+        "margin_reward": 47.621559143066406
+    },
+    {
+        "action_cost": 0.0,
+        "margin_reward": 47.4510383605957
+    },
+    {
+        "action_cost": 0.0,
+        "margin_reward": 47.434051513671875
+    },
+    {
+        "action_cost": 0.0,
+        "margin_reward": 47.32248306274414
+    },
+    {
+        "action_cost": 0.0,
+        "margin_reward": 47.40504837036133
+    },
+    {
+        "action_cost": 0.0,
+        "margin_reward": 47.11467361450195
+    },
+    {
+        "action_cost": 0.0,
+        "margin_reward": 47.18661117553711
+    },
+    {
+        "action_cost": 0.0,
+        "margin_reward": 47.287818908691406
+    },
+    {
+        "action_cost": 0.0,
+        "margin_reward": 47.266963958740234
+    },
+    {
+        "action_cost": 0.0,
+        "margin_reward": 47.145286560058594
+    },
+    {
+        "action_cost": 0.0,
+        "margin_reward": 47.220272064208984
+    },
+    {
+        "action_cost": 0.0,
+        "margin_reward": 47.1373405456543
+    },
+    {
+        "action_cost": 0.0,
+        "margin_reward": 47.139957427978516
+    },
+    {
+        "action_cost": 0.0,
+        "margin_reward": 47.28662872314453
+    },
+    {
+        "action_cost": 0.0,
+        "margin_reward": 47.24315643310547
+    },
+    {
+        "action_cost": 0.0,
+        "margin_reward": 47.28364562988281
+    },
+    {
+        "action_cost": 0.0,
+        "margin_reward": 47.21467971801758
+    },
+    {
+        "action_cost": 0.0,
+        "margin_reward": 47.2224235534668
+    },
+    {
+        "action_cost": 0.0,
+        "margin_reward": 47.174232482910156
+    },
+    {
+        "action_cost": 0.0,
+        "margin_reward": 47.38327407836914
+    },
+    {
+        "action_cost": 0.0,
+        "margin_reward": 47.44068908691406
+    },
+    {
+        "action_cost": 0.0,
+        "margin_reward": 47.44586944580078
+    },
+    {
+        "action_cost": 0.0,
+        "margin_reward": 47.54025650024414
+    },
+    {
+        "action_cost": 0.0,
+        "margin_reward": 47.5227165222168
+    },
+    {
+        "action_cost": 0.0,
+        "margin_reward": 47.59328079223633
+    },
+    {
+        "action_cost": 0.0,
+        "margin_reward": 47.74851989746094
+    },
+    {
+        "action_cost": 0.0,
+        "margin_reward": 47.80178451538086
+    },
+    {
+        "action_cost": 0.0,
+        "margin_reward": 47.96111297607422
+    },
+    {
+        "action_cost": 0.0,
+        "margin_reward": 47.85535430908203
+    },
+    {
+        "action_cost": 0.0,
+        "margin_reward": 48.0755615234375
+    },
+    {
+        "action_cost": 0.0,
+        "margin_reward": 48.06300354003906
+    },
+    {
+        "action_cost": 0.0,
+        "margin_reward": 48.3018684387207
+    },
+    {
+        "action_cost": 0.0,
+        "margin_reward": 48.27978515625
+    },
+    {
+        "action_cost": 0.0,
+        "margin_reward": 48.36375045776367
+    },
+    {
+        "action_cost": 0.0,
+        "margin_reward": 48.43811798095703
+    },
+    {
+        "action_cost": 0.0,
+        "margin_reward": 48.69032287597656
+    },
+    {
+        "action_cost": 0.0,
+        "margin_reward": 48.5931510925293
+    },
+    {
+        "action_cost": 0.0,
+        "margin_reward": 48.71057891845703
+    },
+    {
+        "action_cost": 0.0,
+        "margin_reward": 48.711517333984375
+    },
+    {
+        "action_cost": 0.0,
+        "margin_reward": 48.81156539916992
+    },
+    {
+        "action_cost": 0.0,
+        "margin_reward": 48.693424224853516
+    },
+    {
+        "action_cost": 0.0,
+        "margin_reward": 48.83222579956055
+    },
+    {
+        "action_cost": 0.0,
+        "margin_reward": 48.74466323852539
+    },
+    {
+        "action_cost": 0.0,
+        "margin_reward": 48.90495681762695
+    },
+    {
+        "action_cost": 0.0,
+        "margin_reward": 48.859745025634766
+    },
+    {
+        "action_cost": 0.0,
+        "margin_reward": 48.85496139526367
+    },
+    {
+        "action_cost": 0.0,
+        "margin_reward": 48.99703598022461
+    },
+    {
+        "action_cost": 0.0,
+        "margin_reward": 49.029300689697266
+    },
+    {
+        "action_cost": 0.0,
+        "margin_reward": 49.11368179321289
+    },
+    {
+        "action_cost": 0.0,
+        "margin_reward": 48.93828582763672
+    },
+    {
+        "action_cost": 0.0,
+        "margin_reward": 49.072750091552734
+    },
+    {
+        "action_cost": 0.0,
+        "margin_reward": 49.01909637451172
+    },
+    {
+        "action_cost": 0.0,
+        "margin_reward": 48.886478424072266
+    },
+    {
+        "action_cost": 0.0,
+        "margin_reward": 49.136268615722656
+    },
+    {
+        "action_cost": 0.0,
+        "margin_reward": 48.973716735839844
+    },
+    {
+        "action_cost": 0.0,
+        "margin_reward": 48.87744903564453
+    },
+    {
+        "action_cost": 0.0,
+        "margin_reward": 48.95783233642578
+    },
+    {
+        "action_cost": 0.0,
+        "margin_reward": 48.86225509643555
+    },
+    {
+        "action_cost": 0.0,
+        "margin_reward": 48.91743087768555
+    },
+    {
+        "action_cost": 0.0,
+        "margin_reward": 49.02439498901367
+    },
+    {
+        "action_cost": 0.0,
+        "margin_reward": 49.007869720458984
+    },
+    {
+        "action_cost": 0.0,
+        "margin_reward": 49.10677719116211
+    },
+    {
+        "action_cost": 0.0,
+        "margin_reward": 48.78376388549805
+    },
+    {
+        "action_cost": 0.0,
+        "margin_reward": 49.065277099609375
+    },
+    {
+        "action_cost": 0.0,
+        "margin_reward": 48.937156677246094
+    },
+    {
+        "action_cost": 0.0,
+        "margin_reward": 48.78371810913086
+    },
+    {
+        "action_cost": 0.0,
+        "margin_reward": 49.07954788208008
+    },
+    {
+        "action_cost": 0.0,
+        "margin_reward": 48.93258285522461
+    },
+    {
+        "action_cost": 0.0,
+        "margin_reward": 48.83986282348633
+    },
+    {
+        "action_cost": 0.0,
+        "margin_reward": 48.82914733886719
+    },
+    {
+        "action_cost": 0.0,
+        "margin_reward": 48.75879669189453
+    },
+    {
+        "action_cost": 0.0,
+        "margin_reward": 48.628543853759766
+    },
+    {
+        "action_cost": 0.0,
+        "margin_reward": 48.57545852661133
+    },
+    {
+        "action_cost": 0.0,
+        "margin_reward": 48.571388244628906
+    },
+    {
+        "action_cost": 0.0,
+        "margin_reward": 48.52326965332031
+    },
+    {
+        "action_cost": 0.0,
+        "margin_reward": 48.57386016845703
+    },
+    {
+        "action_cost": 0.0,
+        "margin_reward": 48.726356506347656
+    },
+    {
+        "action_cost": 0.0,
+        "margin_reward": 48.56736373901367
+    },
+    {
+        "action_cost": 0.0,
+        "margin_reward": 48.73161697387695
+    },
+    {
+        "action_cost": 0.0,
+        "margin_reward": 48.76797103881836
+    },
+    {
+        "action_cost": 0.0,
+        "margin_reward": 49.0644416809082
+    },
+    {
+        "action_cost": 0.0,
+        "margin_reward": 48.97712707519531
+    },
+    {
+        "action_cost": 0.0,
+        "margin_reward": 48.93919372558594
+    },
+    {
+        "action_cost": 0.0,
+        "margin_reward": 48.854000091552734
+    },
+    {
+        "action_cost": 0.0,
+        "margin_reward": 48.88579177856445
+    },
+    {
+        "action_cost": 0.0,
+        "margin_reward": 48.700927734375
+    },
+    {
+        "action_cost": 0.0,
+        "margin_reward": 48.44255828857422
+    },
+    {
+        "action_cost": 0.0,
+        "margin_reward": 48.448814392089844
+    },
+    {
+        "action_cost": 0.0,
+        "margin_reward": 48.29991149902344
+    },
+    {
+        "action_cost": 0.0,
+        "margin_reward": 48.29190444946289
+    },
+    {
+        "action_cost": 0.0,
+        "margin_reward": 48.15721130371094
+    },
+    {
+        "action_cost": 0.0,
+        "margin_reward": 48.112693786621094
+    },
+    {
+        "action_cost": 0.0,
+        "margin_reward": 48.26041030883789
+    },
+    {
+        "action_cost": 0.0,
+        "margin_reward": 48.04481887817383
+    },
+    {
+        "action_cost": 0.0,
+        "margin_reward": 48.30044937133789
+    },
+    {
+        "action_cost": 0.0,
+        "margin_reward": 48.11497497558594
+    },
+    {
+        "action_cost": 0.0,
+        "margin_reward": 48.093868255615234
+    },
+    {
+        "action_cost": 0.0,
+        "margin_reward": 47.91259002685547
+    },
+    {
+        "action_cost": 0.0,
+        "margin_reward": 47.78900909423828
+    },
+    {
+        "action_cost": 0.0,
+        "margin_reward": 47.88884353637695
+    },
+    {
+        "action_cost": 0.0,
+        "margin_reward": 47.663917541503906
+    },
+    {
+        "action_cost": 0.0,
+        "margin_reward": 47.635398864746094
+    },
+    {
+        "action_cost": 0.0,
+        "margin_reward": 47.391788482666016
+    },
+    {
+        "action_cost": 0.0,
+        "margin_reward": 47.224021911621094
+    },
+    {
+        "action_cost": 0.0,
+        "margin_reward": 47.1967887878418
+    },
+    {
+        "action_cost": 0.0,
+        "margin_reward": 47.203433990478516
+    },
+    {
+        "action_cost": 0.0,
+        "margin_reward": 47.050933837890625
+    },
+    {
+        "action_cost": 0.0,
+        "margin_reward": 47.008392333984375
+    },
+    {
+        "action_cost": 0.0,
+        "margin_reward": 46.843685150146484
+    },
+    {
+        "action_cost": 0.0,
+        "margin_reward": 46.75630569458008
+    },
+    {
+        "action_cost": 0.0,
+        "margin_reward": 46.73941421508789
+    },
+    {
+        "action_cost": 0.0,
+        "margin_reward": 46.52448654174805
+    },
+    {
+        "action_cost": 0.0,
+        "margin_reward": 46.54933166503906
+    },
+    {
+        "action_cost": 0.0,
+        "margin_reward": 46.31906509399414
+    },
+    {
+        "action_cost": 0.0,
+        "margin_reward": 46.21308135986328
+    },
+    {
+        "action_cost": 0.0,
+        "margin_reward": 46.150665283203125
+    },
+    {
+        "action_cost": 0.0,
+        "margin_reward": 46.19414520263672
+    },
+    {
+        "action_cost": 0.0,
+        "margin_reward": 45.90019226074219
+    },
+    {
+        "action_cost": 0.0,
+        "margin_reward": 45.928897857666016
+    },
+    {
+        "action_cost": 0.0,
+        "margin_reward": 45.9931526184082
+    },
+    {
+        "action_cost": 0.0,
+        "margin_reward": 45.77000045776367
+    },
+    {
+        "action_cost": 0.0,
+        "margin_reward": 46.0031623840332
+    },
+    {
+        "action_cost": 0.0,
+        "margin_reward": 46.00321578979492
+    },
+    {
+        "action_cost": 0.0,
+        "margin_reward": 46.08074951171875
+    },
+    {
+        "action_cost": 0.0,
+        "margin_reward": 45.9397087097168
+    },
+    {
+        "action_cost": 0.0,
+        "margin_reward": 46.05913162231445
+    },
+    {
+        "action_cost": 0.0,
+        "margin_reward": 46.00956726074219
+    },
+    {
+        "action_cost": 0.0,
+        "margin_reward": 46.08652877807617
+    },
+    {
+        "action_cost": 0.0,
+        "margin_reward": 46.084808349609375
+    },
+    {
+        "action_cost": 0.0,
+        "margin_reward": 46.15589904785156
+    },
+    {
+        "action_cost": 0.0,
+        "margin_reward": 46.100502014160156
+    },
+    {
+        "action_cost": 0.0,
+        "margin_reward": 45.95907974243164
+    },
+    {
+        "action_cost": 0.0,
+        "margin_reward": 46.11432647705078
+    },
+    {
+        "action_cost": 0.0,
+        "margin_reward": 45.91840362548828
+    },
+    {
+        "action_cost": 0.0,
+        "margin_reward": 45.854103088378906
+    },
+    {
+        "action_cost": 0.0,
+        "margin_reward": 45.656890869140625
+    },
+    {
+        "action_cost": 0.0,
+        "margin_reward": 45.43859100341797
+    },
+    {
+        "action_cost": 0.0,
+        "margin_reward": 45.28857421875
+    },
+    {
+        "action_cost": 0.0,
+        "margin_reward": 45.13639450073242
+    },
+    {
+        "action_cost": 0.0,
+        "margin_reward": 44.856624603271484
+    },
+    {
+        "action_cost": 0.0,
+        "margin_reward": 45.07033157348633
+    },
+    {
+        "action_cost": 0.0,
+        "margin_reward": 45.08134078979492
+    },
+    {
+        "action_cost": 0.0,
+        "margin_reward": 44.88917541503906
+    },
+    {
+        "action_cost": 0.0,
+        "margin_reward": 44.752899169921875
+    },
+    {
+        "action_cost": 0.0,
+        "margin_reward": 44.927310943603516
+    },
+    {
+        "action_cost": 0.0,
+        "margin_reward": 44.93540573120117
+    },
+    {
+        "action_cost": 0.0,
+        "margin_reward": 45.162113189697266
+    },
+    {
+        "action_cost": 0.0,
+        "margin_reward": 44.91937255859375
+    },
+    {
+        "action_cost": 0.0,
+        "margin_reward": 45.37897872924805
+    },
+    {
+        "action_cost": 0.0,
+        "margin_reward": 45.366233825683594
+    },
+    {
+        "action_cost": 0.0,
+        "margin_reward": 45.268402099609375
+    },
+    {
+        "action_cost": 0.0,
+        "margin_reward": 45.8228874206543
+    },
+    {
+        "action_cost": 0.0,
+        "margin_reward": 46.14952850341797
+    },
+    {
+        "action_cost": 0.0,
+        "margin_reward": 46.55048751831055
+    },
+    {
+        "action_cost": 0.0,
+        "margin_reward": 46.820980072021484
+    },
+    {
+        "action_cost": 0.0,
+        "margin_reward": 47.31285858154297
+    },
+    {
+        "action_cost": 0.0,
+        "margin_reward": 47.55194091796875
+    },
+    {
+        "action_cost": 0.0,
+        "margin_reward": 48.00907897949219
+    },
+    {
+        "action_cost": 0.0,
+        "margin_reward": 48.2387580871582
+    },
+    {
+        "action_cost": 0.0,
+        "margin_reward": 48.549800872802734
+    },
+    {
+        "action_cost": 0.0,
+        "margin_reward": 49.001678466796875
+    },
+    {
+        "action_cost": 0.0,
+        "margin_reward": 49.18357467651367
+    },
+    {
+        "action_cost": 0.0,
+        "margin_reward": 49.11442565917969
+    },
+    {
+        "action_cost": 0.0,
+        "margin_reward": 49.26275634765625
+    },
+    {
+        "action_cost": 0.0,
+        "margin_reward": 49.5672721862793
+    },
+    {
+        "action_cost": 0.0,
+        "margin_reward": 49.51922607421875
+    },
+    {
+        "action_cost": 0.0,
+        "margin_reward": 49.48216247558594
+    },
+    {
+        "action_cost": 0.0,
+        "margin_reward": 49.36686325073242
+    },
+    {
+        "action_cost": 0.0,
+        "margin_reward": 49.512107849121094
+    },
+    {
+        "action_cost": 0.0,
+        "margin_reward": 49.30437469482422
+    },
+    {
+        "action_cost": 0.0,
+        "margin_reward": 49.1220588684082
+    },
+    {
+        "action_cost": 0.0,
+        "margin_reward": 49.124637603759766
+    },
+    {
+        "action_cost": 0.0,
+        "margin_reward": 49.11697769165039
+    },
+    {
+        "action_cost": 0.0,
+        "margin_reward": 48.92863845825195
+    },
+    {
+        "action_cost": 0.0,
+        "margin_reward": 48.826324462890625
+    },
+    {
+        "action_cost": 0.0,
+        "margin_reward": 48.86682891845703
+    },
+    {
+        "action_cost": 0.0,
+        "margin_reward": 48.9623908996582
+    },
+    {
+        "action_cost": 0.0,
+        "margin_reward": 48.578224182128906
+    },
+    {
+        "action_cost": 0.0,
+        "margin_reward": 48.76858139038086
+    },
+    {
+        "action_cost": 0.0,
+        "margin_reward": 48.646060943603516
+    },
+    {
+        "action_cost": 0.0,
+        "margin_reward": 48.72924041748047
+    },
+    {
+        "action_cost": 0.0,
+        "margin_reward": 48.87984085083008
+    },
+    {
+        "action_cost": 0.0,
+        "margin_reward": 49.20393371582031
+    },
+    {
+        "action_cost": 0.0,
+        "margin_reward": 48.940704345703125
+    },
+    {
+        "action_cost": 0.0,
+        "margin_reward": 49.03689193725586
+    },
+    {
+        "action_cost": 0.0,
+        "margin_reward": 49.1403694152832
+    },
+    {
+        "action_cost": 0.0,
+        "margin_reward": 49.00475311279297
+    },
+    {
+        "action_cost": 0.0,
+        "margin_reward": 49.41478729248047
+    },
+    {
+        "action_cost": 0.0,
+        "margin_reward": 48.94648742675781
+    },
+    {
+        "action_cost": 0.0,
+        "margin_reward": 48.92155838012695
+    },
+    {
+        "action_cost": 0.0,
+        "margin_reward": 48.936485290527344
+    },
+    {
+        "action_cost": 0.0,
+        "margin_reward": 49.19356918334961
+    },
+    {
+        "action_cost": 0.0,
+        "margin_reward": 49.4133186340332
+    },
+    {
+        "action_cost": 0.0,
+        "margin_reward": 49.6239128112793
+    },
+    {
+        "action_cost": 0.0,
+        "margin_reward": 49.622135162353516
+    },
+    {
+        "action_cost": 0.0,
+        "margin_reward": 49.87479019165039
+    },
+    {
+        "action_cost": 0.0,
+        "margin_reward": 50.1993408203125
+    },
+    {
+        "action_cost": 0.0,
+        "margin_reward": 50.30280685424805
+    },
+    {
+        "action_cost": 0.0,
+        "margin_reward": 50.54949188232422
+    },
+    {
+        "action_cost": 0.0,
+        "margin_reward": 50.68109893798828
+    },
+    {
+        "action_cost": 0.0,
+        "margin_reward": 50.640541076660156
+    },
+    {
+        "action_cost": 0.0,
+        "margin_reward": 50.818050384521484
+    },
+    {
+        "action_cost": 0.0,
+        "margin_reward": 50.776790618896484
+    },
+    {
+        "action_cost": 0.0,
+        "margin_reward": 50.96644592285156
+    },
+    {
+        "action_cost": 0.0,
+        "margin_reward": 50.89113998413086
+    },
+    {
+        "action_cost": 0.0,
+        "margin_reward": 51.093936920166016
+    },
+    {
+        "action_cost": 0.0,
+        "margin_reward": 51.203697204589844
+    },
+    {
+        "action_cost": 0.0,
+        "margin_reward": 51.13156509399414
+    },
+    {
+        "action_cost": 0.0,
+        "margin_reward": 51.28567886352539
+    },
+    {
+        "action_cost": 0.0,
+        "margin_reward": 51.35877990722656
+    },
+    {
+        "action_cost": 0.0,
+        "margin_reward": 51.36594772338867
+    },
+    {
+        "action_cost": 0.0,
+        "margin_reward": 51.242210388183594
+    },
+    {
+        "action_cost": 0.0,
+        "margin_reward": 51.294437408447266
+    },
+    {
+        "action_cost": 0.0,
+        "margin_reward": 51.195396423339844
+    },
+    {
+        "action_cost": 0.0,
+        "margin_reward": 51.0980339050293
+    },
+    {
+        "action_cost": 0.0,
+        "margin_reward": 51.0804328918457
+    },
+    {
+        "action_cost": 0.0,
+        "margin_reward": 51.03852844238281
+    },
+    {
+        "action_cost": 0.0,
+        "margin_reward": 51.00467300415039
+    },
+    {
+        "action_cost": 0.0,
+        "margin_reward": 50.864322662353516
+    },
+    {
+        "action_cost": 0.0,
+        "margin_reward": 50.98324203491211
+    },
+    {
+        "action_cost": 0.0,
+        "margin_reward": 50.69929122924805
+    },
+    {
+        "action_cost": 0.0,
+        "margin_reward": 50.47587585449219
+    },
+    {
+        "action_cost": 0.0,
+        "margin_reward": 50.217769622802734
+    },
+    {
+        "action_cost": 0.0,
+        "margin_reward": 50.01161193847656
+    },
+    {
+        "action_cost": 0.0,
+        "margin_reward": 50.11381530761719
+    },
+    {
+        "action_cost": 0.0,
+        "margin_reward": 49.6865234375
+    },
+    {
+        "action_cost": 0.0,
+        "margin_reward": 49.67350769042969
+    },
+    {
+        "action_cost": 0.0,
+        "margin_reward": 49.2086181640625
+    },
+    {
+        "action_cost": 0.0,
+        "margin_reward": 49.05679702758789
+    },
+    {
+        "action_cost": 0.0,
+        "margin_reward": 48.689022064208984
+    },
+    {
+        "action_cost": 0.0,
+        "margin_reward": 48.53486633300781
+    },
+    {
+        "action_cost": 0.0,
+        "margin_reward": 48.366085052490234
+    },
+    {
+        "action_cost": 0.0,
+        "margin_reward": 48.1155891418457
+    },
+    {
+        "action_cost": 0.0,
+        "margin_reward": 48.02735137939453
+    },
+    {
+        "action_cost": 0.0,
+        "margin_reward": 48.05476379394531
+    },
+    {
+        "action_cost": 0.0,
+        "margin_reward": 48.00619888305664
+    },
+    {
+        "action_cost": 0.0,
+        "margin_reward": 47.62242126464844
+    },
+    {
+        "action_cost": 0.0,
+        "margin_reward": 48.05645751953125
+    },
+    {
+        "action_cost": 0.0,
+        "margin_reward": 47.94636535644531
+    },
+    {
+        "action_cost": 0.0,
+        "margin_reward": 47.69910430908203
+    },
+    {
+        "action_cost": 0.0,
+        "margin_reward": 47.82000732421875
+    },
+    {
+        "action_cost": 0.0,
+        "margin_reward": 47.9870719909668
+    },
+    {
+        "action_cost": 0.0,
+        "margin_reward": 48.04666519165039
+    },
+    {
+        "action_cost": 0.0,
+        "margin_reward": 47.85190963745117
+    },
+    {
+        "action_cost": 0.0,
+        "margin_reward": 47.51417922973633
+    },
+    {
+        "action_cost": 0.0,
+        "margin_reward": 47.63713836669922
+    },
+    {
+        "action_cost": 0.0,
+        "margin_reward": 47.37105941772461
+    },
+    {
+        "action_cost": 0.0,
+        "margin_reward": 47.17271423339844
+    },
+    {
+        "action_cost": 0.0,
+        "margin_reward": 46.9814453125
+    },
+    {
+        "action_cost": 0.0,
+        "margin_reward": 46.54628372192383
+    },
+    {
+        "action_cost": 0.0,
+        "margin_reward": 46.283966064453125
+    },
+    {
+        "action_cost": 0.0,
+        "margin_reward": 46.358192443847656
+    },
+    {
+        "action_cost": 0.0,
+        "margin_reward": 46.219364166259766
+    },
+    {
+        "action_cost": 0.0,
+        "margin_reward": 46.284969329833984
+    },
+    {
+        "action_cost": 0.0,
+        "margin_reward": 46.003456115722656
+    },
+    {
+        "action_cost": 0.0,
+        "margin_reward": 45.971519470214844
+    },
+    {
+        "action_cost": 0.0,
+        "margin_reward": 46.16950607299805
+    },
+    {
+        "action_cost": 0.0,
+        "margin_reward": 46.10026550292969
+    },
+    {
+        "action_cost": 0.0,
+        "margin_reward": 46.1969108581543
+    },
+    {
+        "action_cost": 0.0,
+        "margin_reward": 46.25575256347656
+    },
+    {
+        "action_cost": 0.0,
+        "margin_reward": 46.303226470947266
+    },
+    {
+        "action_cost": 0.0,
+        "margin_reward": 46.490142822265625
+    },
+    {
+        "action_cost": 0.0,
+        "margin_reward": 46.54573440551758
+    },
+    {
+        "action_cost": 0.0,
+        "margin_reward": 46.595794677734375
+    },
+    {
+        "action_cost": 0.0,
+        "margin_reward": 46.41499328613281
+    },
+    {
+        "action_cost": 0.0,
+        "margin_reward": 46.5507698059082
+    },
+    {
+        "action_cost": 0.0,
+        "margin_reward": 46.56711959838867
+    },
+    {
+        "action_cost": 0.0,
+        "margin_reward": 46.60736083984375
+    },
+    {
+        "action_cost": 0.0,
+        "margin_reward": 46.70623779296875
+    },
+    {
+        "action_cost": 0.0,
+        "margin_reward": 46.52174377441406
+    },
+    {
+        "action_cost": 0.0,
+        "margin_reward": 46.40669631958008
+    },
+    {
+        "action_cost": 0.0,
+        "margin_reward": 46.505741119384766
+    },
+    {
+        "action_cost": 0.0,
+        "margin_reward": 46.60710525512695
+    },
+    {
+        "action_cost": 0.0,
+        "margin_reward": 46.52926254272461
+    },
+    {
+        "action_cost": 0.0,
+        "margin_reward": 46.406795501708984
+    },
+    {
+        "action_cost": 0.0,
+        "margin_reward": 46.636138916015625
+    },
+    {
+        "action_cost": 0.0,
+        "margin_reward": 46.69908142089844
+    },
+    {
+        "action_cost": 0.0,
+        "margin_reward": 46.83945846557617
+    },
+    {
+        "action_cost": 0.0,
+        "margin_reward": 46.936485290527344
+    },
+    {
+        "action_cost": 0.0,
+        "margin_reward": 46.831512451171875
+    },
+    {
+        "action_cost": 0.0,
+        "margin_reward": 46.78312683105469
+    },
+    {
+        "action_cost": 0.0,
+        "margin_reward": 46.96652603149414
+    },
+    {
+        "action_cost": 0.0,
+        "margin_reward": 46.92604446411133
+    },
+    {
+        "action_cost": 0.0,
+        "margin_reward": 47.34653854370117
+    },
+    {
+        "action_cost": 0.0,
+        "margin_reward": 47.430973052978516
+    },
+    {
+        "action_cost": 0.0,
+        "margin_reward": 48.01447677612305
+    },
+    {
+        "action_cost": 0.0,
+        "margin_reward": 48.34769058227539
+    },
+    {
+        "action_cost": 0.0,
+        "margin_reward": 48.56454086303711
+    },
+    {
+        "action_cost": 0.0,
+        "margin_reward": 48.79511260986328
+    },
+    {
+        "action_cost": 0.0,
+        "margin_reward": 48.95647430419922
+    },
+    {
+        "action_cost": 0.0,
+        "margin_reward": 49.2027702331543
+    },
+    {
+        "action_cost": 0.0,
+        "margin_reward": 49.2851448059082
+    },
+    {
+        "action_cost": 0.0,
+        "margin_reward": 49.64255142211914
+    },
+    {
+        "action_cost": 0.0,
+        "margin_reward": 49.67225646972656
+    },
+    {
+        "action_cost": 0.0,
+        "margin_reward": 49.88269805908203
+    },
+    {
+        "action_cost": 0.0,
+        "margin_reward": 49.909271240234375
+    },
+    {
+        "action_cost": 0.0,
+        "margin_reward": 50.1533088684082
+    },
+    {
+        "action_cost": 0.0,
+        "margin_reward": 50.274627685546875
+    },
+    {
+        "action_cost": 0.0,
+        "margin_reward": 50.4786262512207
+    },
+    {
+        "action_cost": 0.0,
+        "margin_reward": 50.584285736083984
+    },
+    {
+        "action_cost": 0.0,
+        "margin_reward": 50.673301696777344
+    },
+    {
+        "action_cost": 0.0,
+        "margin_reward": 50.779109954833984
+    },
+    {
+        "action_cost": 0.0,
+        "margin_reward": 50.97261047363281
+    },
+    {
+        "action_cost": 0.0,
+        "margin_reward": 51.023014068603516
+    },
+    {
+        "action_cost": 0.0,
+        "margin_reward": 51.149818420410156
+    },
+    {
+        "action_cost": 0.0,
+        "margin_reward": 51.144012451171875
+    },
+    {
+        "action_cost": 0.0,
+        "margin_reward": 51.2804069519043
+    },
+    {
+        "action_cost": 0.0,
+        "margin_reward": 51.30556869506836
+    },
+    {
+        "action_cost": 0.0,
+        "margin_reward": 51.32133483886719
+    },
+    {
+        "action_cost": 0.0,
+        "margin_reward": 51.34488296508789
+    },
+    {
+        "action_cost": 0.0,
+        "margin_reward": 51.398353576660156
+    },
+    {
+        "action_cost": 0.0,
+        "margin_reward": 51.38726043701172
+    },
+    {
+        "action_cost": 0.0,
+        "margin_reward": 51.34872055053711
+    },
+    {
+        "action_cost": 0.0,
+        "margin_reward": 51.33245086669922
+    },
+    {
+        "action_cost": 0.0,
+        "margin_reward": 51.193843841552734
+    },
+    {
+        "action_cost": 0.0,
+        "margin_reward": 51.1056022644043
+    },
+    {
+        "action_cost": 0.0,
+        "margin_reward": 50.97208023071289
+    },
+    {
+        "action_cost": 0.0,
+        "margin_reward": 50.862918853759766
+    },
+    {
+        "action_cost": 0.0,
+        "margin_reward": 50.772159576416016
+    },
+    {
+        "action_cost": 0.0,
+        "margin_reward": 50.538169860839844
+    },
+    {
+        "action_cost": 0.0,
+        "margin_reward": 51.1093635559082
+    },
+    {
+        "action_cost": 0.0,
+        "margin_reward": 51.27479934692383
+    },
+    {
+        "action_cost": 0.0,
+        "margin_reward": 51.06389236450195
+    },
+    {
+        "action_cost": 0.0,
+        "margin_reward": 51.144386291503906
+    },
+    {
+        "action_cost": 0.0,
+        "margin_reward": 50.648643493652344
+    },
+    {
+        "action_cost": 0.0,
+        "margin_reward": 50.48466873168945
+    },
+    {
+        "action_cost": 0.0,
+        "margin_reward": 50.485633850097656
+    },
+    {
+        "action_cost": 0.0,
+        "margin_reward": 50.380836486816406
+    },
+    {
+        "action_cost": 0.0,
+        "margin_reward": 50.33445739746094
+    },
+    {
+        "action_cost": 0.0,
+        "margin_reward": 50.30820846557617
+    },
+    {
+        "action_cost": 0.0,
+        "margin_reward": 50.21947479248047
+    },
+    {
+        "action_cost": 0.0,
+        "margin_reward": 50.23566818237305
+    },
+    {
+        "action_cost": 0.0,
+        "margin_reward": 50.2596549987793
+    },
+    {
+        "action_cost": 0.0,
+        "margin_reward": 50.17739486694336
+    },
+    {
+        "action_cost": 0.0,
+        "margin_reward": 50.186370849609375
+    },
+    {
+        "action_cost": 0.0,
+        "margin_reward": 50.099971771240234
+    },
+    {
+        "action_cost": 0.0,
+        "margin_reward": 50.04361343383789
+    },
+    {
+        "action_cost": 0.0,
+        "margin_reward": 50.10354995727539
+    },
+    {
+        "action_cost": 0.0,
+        "margin_reward": 50.00907897949219
+    },
+    {
+        "action_cost": 0.0,
+        "margin_reward": 50.11357116699219
+    },
+    {
+        "action_cost": 0.0,
+        "margin_reward": 49.963348388671875
+    },
+    {
+        "action_cost": 0.0,
+        "margin_reward": 50.01243591308594
+    },
+    {
+        "action_cost": 0.0,
+        "margin_reward": 49.972415924072266
+    },
+    {
+        "action_cost": 0.0,
+        "margin_reward": 49.88447189331055
+    },
+    {
+        "action_cost": 0.0,
+        "margin_reward": 49.85984802246094
+    },
+    {
+        "action_cost": 0.0,
+        "margin_reward": 49.826019287109375
+    },
+    {
+        "action_cost": 0.0,
+        "margin_reward": 49.708221435546875
+    },
+    {
+        "action_cost": 0.0,
+        "margin_reward": 49.647193908691406
+    },
+    {
+        "action_cost": 0.0,
+        "margin_reward": 49.73238754272461
+    },
+    {
+        "action_cost": 0.0,
+        "margin_reward": 49.84917068481445
+    },
+    {
+        "action_cost": 0.0,
+        "margin_reward": 49.738250732421875
+    },
+    {
+        "action_cost": 0.0,
+        "margin_reward": 49.70792007446289
+    },
+    {
+        "action_cost": 0.0,
+        "margin_reward": 49.63670349121094
+    },
+    {
+        "action_cost": 0.0,
+        "margin_reward": 49.455745697021484
+    },
+    {
+        "action_cost": 0.0,
+        "margin_reward": 49.43212127685547
+    },
+    {
+        "action_cost": 0.0,
+        "margin_reward": 49.287105560302734
+    },
+    {
+        "action_cost": 0.0,
+        "margin_reward": 49.42634201049805
+    },
+    {
+        "action_cost": 0.0,
+        "margin_reward": 49.58723831176758
+    },
+    {
+        "action_cost": 0.0,
+        "margin_reward": 49.72349166870117
+    },
+    {
+        "action_cost": 0.0,
+        "margin_reward": 49.75009536743164
+    },
+    {
+        "action_cost": 0.0,
+        "margin_reward": 49.628047943115234
+    },
+    {
+        "action_cost": 0.0,
+        "margin_reward": 49.303367614746094
+    },
+    {
+        "action_cost": 0.0,
+        "margin_reward": 49.201778411865234
+    },
+    {
+        "action_cost": 0.0,
+        "margin_reward": 49.261474609375
+    },
+    {
+        "action_cost": 0.0,
+        "margin_reward": 49.278053283691406
+    },
+    {
+        "action_cost": 0.0,
+        "margin_reward": 48.30457305908203
+    },
+    {
+        "action_cost": 0.0,
+        "margin_reward": 48.33662033081055
+    },
+    {
+        "action_cost": 0.0,
+        "margin_reward": 48.302608489990234
+    },
+    {
+        "action_cost": 0.0,
+        "margin_reward": 48.23740005493164
+    },
+    {
+        "action_cost": 0.0,
+        "margin_reward": 48.206539154052734
+    },
+    {
+        "action_cost": 0.0,
+        "margin_reward": 48.26766586303711
+    },
+    {
+        "action_cost": 0.0,
+        "margin_reward": 48.21261978149414
+    },
+    {
+        "action_cost": 0.0,
+        "margin_reward": 48.143028259277344
+    },
+    {
+        "action_cost": 0.0,
+        "margin_reward": 48.17627716064453
+    },
+    {
+        "action_cost": 0.0,
+        "margin_reward": 48.09102249145508
+    },
+    {
+        "action_cost": 0.0,
+        "margin_reward": 48.0889778137207
+    },
+    {
+        "action_cost": 0.0,
+        "margin_reward": 48.0932502746582
+    },
+    {
+        "action_cost": 0.0,
+        "margin_reward": 48.167205810546875
+    },
+    {
+        "action_cost": 0.0,
+        "margin_reward": 49.138126373291016
+    },
+    {
+        "action_cost": 0.0,
+        "margin_reward": 49.461917877197266
+    },
+    {
+        "action_cost": 0.0,
+        "margin_reward": 49.41836166381836
+    },
+    {
+        "action_cost": 0.0,
+        "margin_reward": 49.33683395385742
+    },
+    {
+        "action_cost": 0.0,
+        "margin_reward": 49.35368347167969
+    },
+    {
+        "action_cost": 0.0,
+        "margin_reward": 49.320892333984375
+    },
+    {
+        "action_cost": 0.0,
+        "margin_reward": 49.30290222167969
+    },
+    {
+        "action_cost": 0.0,
+        "margin_reward": 49.201751708984375
+    },
+    {
+        "action_cost": 0.0,
+        "margin_reward": 49.107261657714844
+    },
+    {
+        "action_cost": 0.0,
+        "margin_reward": 49.26955032348633
+    },
+    {
+        "action_cost": 0.0,
+        "margin_reward": 49.25284957885742
+    },
+    {
+        "action_cost": 0.0,
+        "margin_reward": 49.29317855834961
+    },
+    {
+        "action_cost": 0.0,
+        "margin_reward": 49.236549377441406
+    },
+    {
+        "action_cost": 0.0,
+        "margin_reward": 49.22316360473633
+    },
+    {
+        "action_cost": 0.0,
+        "margin_reward": 49.30036926269531
+    },
+    {
+        "action_cost": 0.0,
+        "margin_reward": 49.51312255859375
+    },
+    {
+        "action_cost": 0.0,
+        "margin_reward": 49.63845443725586
+    },
+    {
+        "action_cost": 0.0,
+        "margin_reward": 49.65150833129883
+    },
+    {
+        "action_cost": 0.0,
+        "margin_reward": 49.90468215942383
+    },
+    {
+        "action_cost": 0.0,
+        "margin_reward": 49.89177322387695
+    },
+    {
+        "action_cost": 0.0,
+        "margin_reward": 50.04651641845703
+    },
+    {
+        "action_cost": 0.0,
+        "margin_reward": 50.34879684448242
+    },
+    {
+        "action_cost": 0.0,
+        "margin_reward": 50.48666763305664
+    },
+    {
+        "action_cost": 0.0,
+        "margin_reward": 50.54228210449219
+    },
+    {
+        "action_cost": 0.0,
+        "margin_reward": 50.48428726196289
+    },
+    {
+        "action_cost": 0.0,
+        "margin_reward": 50.04901885986328
+    },
+    {
+        "action_cost": 0.0,
+        "margin_reward": 50.238468170166016
+    },
+    {
+        "action_cost": 0.0,
+        "margin_reward": 50.34185791015625
+    },
+    {
+        "action_cost": 0.0,
+        "margin_reward": 50.18459701538086
+    },
+    {
+        "action_cost": 0.0,
+        "margin_reward": 50.716094970703125
+    },
+    {
+        "action_cost": 0.0,
+        "margin_reward": 50.79270935058594
+    },
+    {
+        "action_cost": 0.0,
+        "margin_reward": 50.9837646484375
+    },
+    {
+        "action_cost": 0.0,
+        "margin_reward": 51.11039733886719
+    },
+    {
+        "action_cost": 0.0,
+        "margin_reward": 51.12827682495117
+    },
+    {
+        "action_cost": 0.0,
+        "margin_reward": 50.6644287109375
+    },
+    {
+        "action_cost": 0.0,
+        "margin_reward": 50.5372428894043
+    },
+    {
+        "action_cost": 0.0,
+        "margin_reward": 50.625587463378906
+    },
+    {
+        "action_cost": 0.0,
+        "margin_reward": 50.655967712402344
+    },
+    {
+        "action_cost": 0.0,
+        "margin_reward": 51.456600189208984
+    },
+    {
+        "action_cost": 0.0,
+        "margin_reward": 51.52021408081055
+    },
+    {
+        "action_cost": 0.0,
+        "margin_reward": 51.49178695678711
+    },
+    {
+        "action_cost": 0.0,
+        "margin_reward": 51.46656799316406
+    },
+    {
+        "action_cost": 0.0,
+        "margin_reward": 51.419315338134766
+    },
+    {
+        "action_cost": 0.0,
+        "margin_reward": 51.490081787109375
+    },
+    {
+        "action_cost": 0.0,
+        "margin_reward": 51.692447662353516
+    },
+    {
+        "action_cost": 0.0,
+        "margin_reward": 51.7289924621582
+    },
+    {
+        "action_cost": 0.0,
+        "margin_reward": 51.63192367553711
+    },
+    {
+        "action_cost": 0.0,
+        "margin_reward": 51.46946716308594
+    },
+    {
+        "action_cost": 0.0,
+        "margin_reward": 51.47243118286133
+    },
+    {
+        "action_cost": 0.0,
+        "margin_reward": 51.63792037963867
+    },
+    {
+        "action_cost": 0.0,
+        "margin_reward": 51.19243621826172
+    },
+    {
+        "action_cost": 0.0,
+        "margin_reward": 51.40314483642578
+    },
+    {
+        "action_cost": 0.0,
+        "margin_reward": 50.699005126953125
+    },
+    {
+        "action_cost": 0.0,
+        "margin_reward": 50.526039123535156
+    },
+    {
+        "action_cost": 0.0,
+        "margin_reward": 50.55181884765625
+    },
+    {
+        "action_cost": 0.0,
+        "margin_reward": 50.339473724365234
+    },
+    {
+        "action_cost": 0.0,
+        "margin_reward": 50.885379791259766
+    },
+    {
+        "action_cost": 0.0,
+        "margin_reward": 50.80614471435547
+    },
+    {
+        "action_cost": 0.0,
+        "margin_reward": 50.70817947387695
+    },
+    {
+        "action_cost": 0.0,
+        "margin_reward": 50.685970306396484
+    },
+    {
+        "action_cost": 0.0,
+        "margin_reward": 50.13255310058594
+    },
+    {
+        "action_cost": 0.0,
+        "margin_reward": 49.970462799072266
+    },
+    {
+        "action_cost": 0.0,
+        "margin_reward": 49.87714385986328
+    },
+    {
+        "action_cost": 0.0,
+        "margin_reward": 49.85187911987305
+    },
+    {
+        "action_cost": 0.0,
+        "margin_reward": 50.21568298339844
+    },
+    {
+        "action_cost": 0.0,
+        "margin_reward": 50.20460891723633
+    },
+    {
+        "action_cost": 0.0,
+        "margin_reward": 50.212467193603516
+    },
+    {
+        "action_cost": 0.0,
+        "margin_reward": 50.23257064819336
+    },
+    {
+        "action_cost": 0.0,
+        "margin_reward": 49.54756546020508
+    },
+    {
+        "action_cost": 0.0,
+        "margin_reward": 49.41842269897461
+    },
+    {
+        "action_cost": 0.0,
+        "margin_reward": 49.51288604736328
+    },
+    {
+        "action_cost": 0.0,
+        "margin_reward": 49.40196990966797
+    },
+    {
+        "action_cost": 0.0,
+        "margin_reward": 49.52437973022461
+    },
+    {
+        "action_cost": 0.0,
+        "margin_reward": 49.4970703125
+    },
+    {
+        "action_cost": 0.0,
+        "margin_reward": 49.49106216430664
+    },
+    {
+        "action_cost": 0.0,
+        "margin_reward": 49.46676254272461
+    },
+    {
+        "action_cost": 0.0,
+        "margin_reward": 49.35164260864258
+    },
+    {
+        "action_cost": 0.0,
+        "margin_reward": 49.444252014160156
+    },
+    {
+        "action_cost": 0.0,
+        "margin_reward": 49.54606628417969
+    },
+    {
+        "action_cost": 0.0,
+        "margin_reward": 49.60562515258789
+    },
+    {
+        "action_cost": 0.0,
+        "margin_reward": 49.76065444946289
+    },
+    {
+        "action_cost": 0.0,
+        "margin_reward": 49.762062072753906
+    },
+    {
+        "action_cost": 0.0,
+        "margin_reward": 49.67650604248047
+    },
+    {
+        "action_cost": 0.0,
+        "margin_reward": 49.73188781738281
+    },
+    {
+        "action_cost": 0.0,
+        "margin_reward": 49.88426971435547
+    },
+    {
+        "action_cost": 0.0,
+        "margin_reward": 49.9193229675293
+    },
+    {
+        "action_cost": 0.0,
+        "margin_reward": 50.012611389160156
+    },
+    {
+        "action_cost": 0.0,
+        "margin_reward": 50.160255432128906
+    },
+    {
+        "action_cost": 0.0,
+        "margin_reward": 50.178550720214844
+    },
+    {
+        "action_cost": 0.0,
+        "margin_reward": 50.39131164550781
+    },
+    {
+        "action_cost": 0.0,
+        "margin_reward": 50.703800201416016
+    },
+    {
+        "action_cost": 0.0,
+        "margin_reward": 51.03925704956055
+    },
+    {
+        "action_cost": 0.0,
+        "margin_reward": 51.088134765625
+    },
+    {
+        "action_cost": 0.0,
+        "margin_reward": 50.7556266784668
+    },
+    {
+        "action_cost": 0.0,
+        "margin_reward": 50.3302001953125
+    },
+    {
+        "action_cost": 0.0,
+        "margin_reward": 50.40074920654297
+    },
+    {
+        "action_cost": 0.0,
+        "margin_reward": 50.46661376953125
+    },
+    {
+        "action_cost": 0.0,
+        "margin_reward": 51.13484191894531
+    },
+    {
+        "action_cost": 0.0,
+        "margin_reward": 51.00318908691406
+    },
+    {
+        "action_cost": 0.0,
+        "margin_reward": 51.207462310791016
+    },
+    {
+        "action_cost": 0.0,
+        "margin_reward": 51.21993637084961
+    },
+    {
+        "action_cost": 0.0,
+        "margin_reward": 51.210479736328125
+    },
+    {
+        "action_cost": 0.0,
+        "margin_reward": 51.385475158691406
+    },
+    {
+        "action_cost": 0.0,
+        "margin_reward": 51.46062469482422
+    },
+    {
+        "action_cost": 0.0,
+        "margin_reward": 51.04694366455078
+    },
+    {
+        "action_cost": 0.0,
+        "margin_reward": 51.14280319213867
+    },
+    {
+        "action_cost": 0.0,
+        "margin_reward": 51.153263092041016
+    },
+    {
+        "action_cost": 0.0,
+        "margin_reward": 51.11478805541992
+    },
+    {
+        "action_cost": 0.0,
+        "margin_reward": 51.1056022644043
+    },
+    {
+        "action_cost": 0.0,
+        "margin_reward": 50.96048355102539
+    },
+    {
+        "action_cost": 0.0,
+        "margin_reward": 50.67420196533203
+    },
+    {
+        "action_cost": 0.0,
+        "margin_reward": 50.447181701660156
+    },
+    {
+        "action_cost": 0.0,
+        "margin_reward": 50.496585845947266
+    },
+    {
+        "action_cost": 0.0,
+        "margin_reward": 50.483333587646484
+    },
+    {
+        "action_cost": 0.0,
+        "margin_reward": 50.67251205444336
+    },
+    {
+        "action_cost": 0.0,
+        "margin_reward": 50.5101203918457
+    },
+    {
+        "action_cost": 0.0,
+        "margin_reward": 50.66535186767578
+    },
+    {
+        "action_cost": 0.0,
+        "margin_reward": 50.85942840576172
+    },
+    {
+        "action_cost": 0.0,
+        "margin_reward": 50.863990783691406
+    },
+    {
+        "action_cost": 0.0,
+        "margin_reward": 50.52253723144531
+    },
+    {
+        "action_cost": 0.0,
+        "margin_reward": 50.13827133178711
+    },
+    {
+        "action_cost": 0.0,
+        "margin_reward": 50.215354919433594
+    },
+    {
+        "action_cost": 0.0,
+        "margin_reward": 50.2634391784668
+    },
+    {
+        "action_cost": 0.0,
+        "margin_reward": 50.7563362121582
+    },
+    {
+        "action_cost": 0.0,
+        "margin_reward": 50.843570709228516
+    },
+    {
+        "action_cost": 0.0,
+        "margin_reward": 50.86447525024414
+    },
+    {
+        "action_cost": 0.0,
+        "margin_reward": 50.8994140625
+    },
+    {
+        "action_cost": 0.0,
+        "margin_reward": 50.90336227416992
+    },
+    {
+        "action_cost": 0.0,
+        "margin_reward": 50.32009506225586
+    },
+    {
+        "action_cost": 0.0,
+        "margin_reward": 50.35715866088867
+    },
+    {
+        "action_cost": 0.0,
+        "margin_reward": 50.395652770996094
+    },
+    {
+        "action_cost": 0.0,
+        "margin_reward": 50.37201690673828
+    },
+    {
+        "action_cost": 0.0,
+        "margin_reward": 51.25682830810547
+    },
+    {
+        "action_cost": 0.0,
+        "margin_reward": 51.5582389831543
+    },
+    {
+        "action_cost": 0.0,
+        "margin_reward": 51.68275451660156
+    },
+    {
+        "action_cost": 0.0,
+        "margin_reward": 51.856231689453125
+    },
+    {
+        "action_cost": 0.0,
+        "margin_reward": 51.36832046508789
+    },
+    {
+        "action_cost": 0.0,
+        "margin_reward": 51.509883880615234
+    },
+    {
+        "action_cost": 0.0,
+        "margin_reward": 51.66493606567383
+    },
+    {
+        "action_cost": 0.0,
+        "margin_reward": 51.65190124511719
+    },
+    {
+        "action_cost": 0.0,
+        "margin_reward": 51.76792526245117
+    },
+    {
+        "action_cost": 0.0,
+        "margin_reward": 51.61635208129883
+    },
+    {
+        "action_cost": 0.0,
+        "margin_reward": 51.62678909301758
+    },
+    {
+        "action_cost": 0.0,
+        "margin_reward": 51.533111572265625
+    },
+    {
+        "action_cost": 0.0,
+        "margin_reward": 51.62696075439453
+    },
+    {
+        "action_cost": 0.0,
+        "margin_reward": 51.68302536010742
+    },
+    {
+        "action_cost": 0.0,
+        "margin_reward": 51.86158752441406
+    },
+    {
+        "action_cost": 0.0,
+        "margin_reward": 51.90633010864258
+    },
+    {
+        "action_cost": 0.0,
+        "margin_reward": 51.87514114379883
+    },
+    {
+        "action_cost": 0.0,
+        "margin_reward": 51.93858337402344
+    },
+    {
+        "action_cost": 0.0,
+        "margin_reward": 52.017311096191406
+    },
+    {
+        "action_cost": 0.0,
+        "margin_reward": 51.97209548950195
+    },
+    {
+        "action_cost": 0.0,
+        "margin_reward": 51.994712829589844
+    },
+    {
+        "action_cost": 0.0,
+        "margin_reward": 52.01642990112305
+    },
+    {
+        "action_cost": 0.0,
+        "margin_reward": 52.0241584777832
+    },
+    {
+        "action_cost": 0.0,
+        "margin_reward": 51.942848205566406
+    },
+    {
+        "action_cost": 0.0,
+        "margin_reward": 51.95807647705078
+    },
+    {
+        "action_cost": 0.0,
+        "margin_reward": 52.024253845214844
+    },
+    {
+        "action_cost": 0.0,
+        "margin_reward": 51.939483642578125
+    },
+    {
+        "action_cost": 0.0,
+        "margin_reward": 51.91954803466797
+    },
+    {
+        "action_cost": 0.0,
+        "margin_reward": 51.85002517700195
+    },
+    {
+        "action_cost": 0.0,
+        "margin_reward": 51.69133377075195
+    },
+    {
+        "action_cost": 0.0,
+        "margin_reward": 51.487586975097656
+    },
+    {
+        "action_cost": 0.0,
+        "margin_reward": 51.36342239379883
+    },
+    {
+        "action_cost": 0.0,
+        "margin_reward": 51.194580078125
+    },
+    {
+        "action_cost": 0.0,
+        "margin_reward": 51.0631217956543
+    },
+    {
+        "action_cost": 0.0,
+        "margin_reward": 50.91294860839844
+    },
+    {
+        "action_cost": 0.0,
+        "margin_reward": 50.83280944824219
+    },
+    {
+        "action_cost": 0.0,
+        "margin_reward": 50.73893356323242
+    },
+    {
+        "action_cost": 0.0,
+        "margin_reward": 50.60533142089844
+    },
+    {
+        "action_cost": 0.0,
+        "margin_reward": 50.495933532714844
+    },
+    {
+        "action_cost": 0.0,
+        "margin_reward": 50.3037223815918
+    },
+    {
+        "action_cost": 0.0,
+        "margin_reward": 50.07497024536133
+    },
+    {
+        "action_cost": 0.0,
+        "margin_reward": 50.235721588134766
+    },
+    {
+        "action_cost": 0.0,
+        "margin_reward": 50.02901840209961
+    },
+    {
+        "action_cost": 0.0,
+        "margin_reward": 49.94025421142578
+    },
+    {
+        "action_cost": 0.0,
+        "margin_reward": 49.90851593017578
+    },
+    {
+        "action_cost": 0.0,
+        "margin_reward": 49.895301818847656
+    },
+    {
+        "action_cost": 0.0,
+        "margin_reward": 49.795345306396484
+    },
+    {
+        "action_cost": 0.0,
+        "margin_reward": 49.700233459472656
+    },
+    {
+        "action_cost": 0.0,
+        "margin_reward": 49.64277648925781
+    },
+    {
+        "action_cost": 0.0,
+        "margin_reward": 49.69135284423828
+    },
+    {
+        "action_cost": 0.0,
+        "margin_reward": 49.765663146972656
+    },
+    {
+        "action_cost": 0.0,
+        "margin_reward": 49.87701416015625
+    },
+    {
+        "action_cost": 0.0,
+        "margin_reward": 49.91119384765625
+    },
+    {
+        "action_cost": 0.0,
+        "margin_reward": 50.12031555175781
+    },
+    {
+        "action_cost": 0.0,
+        "margin_reward": 50.268638610839844
+    },
+    {
+        "action_cost": 0.0,
+        "margin_reward": 50.33087921142578
+    },
+    {
+        "action_cost": 0.0,
+        "margin_reward": 50.53905487060547
+    },
+    {
+        "action_cost": 0.0,
+        "margin_reward": 50.73930358886719
+    },
+    {
+        "action_cost": 0.0,
+        "margin_reward": 50.93303298950195
+    },
+    {
+        "action_cost": 0.0,
+        "margin_reward": 51.03751754760742
+    },
+    {
+        "action_cost": 0.0,
+        "margin_reward": 51.20858383178711
+    },
+    {
+        "action_cost": 0.0,
+        "margin_reward": 51.20402526855469
+    },
+    {
+        "action_cost": 0.0,
+        "margin_reward": 51.35380935668945
+    },
+    {
+        "action_cost": 0.0,
+        "margin_reward": 51.46895980834961
+    },
+    {
+        "action_cost": 0.0,
+        "margin_reward": 51.643009185791016
+    },
+    {
+        "action_cost": 0.0,
+        "margin_reward": 51.56332778930664
+    },
+    {
+        "action_cost": 0.0,
+        "margin_reward": 51.5635986328125
+    },
+    {
+        "action_cost": 0.0,
+        "margin_reward": 51.70413589477539
+    },
+    {
+        "action_cost": 0.0,
+        "margin_reward": 51.69438552856445
+    },
+    {
+        "action_cost": 0.0,
+        "margin_reward": 51.70286560058594
+    },
+    {
+        "action_cost": 0.0,
+        "margin_reward": 51.618858337402344
+    },
+    {
+        "action_cost": 0.0,
+        "margin_reward": 51.416412353515625
+    },
+    {
+        "action_cost": 0.0,
+        "margin_reward": 51.467716217041016
+    },
+    {
+        "action_cost": 0.0,
+        "margin_reward": 51.36249542236328
+    },
+    {
+        "action_cost": 0.0,
+        "margin_reward": 51.12864303588867
+    },
+    {
+        "action_cost": 0.0,
+        "margin_reward": 51.14215850830078
+    },
+    {
+        "action_cost": 0.0,
+        "margin_reward": 51.0091438293457
+    },
+    {
+        "action_cost": 0.0,
+        "margin_reward": 50.86074447631836
+    },
+    {
+        "action_cost": 0.0,
+        "margin_reward": 50.723365783691406
+    },
+    {
+        "action_cost": 0.0,
+        "margin_reward": 50.63634490966797
+    },
+    {
+        "action_cost": 0.0,
+        "margin_reward": 50.4741096496582
+    },
+    {
+        "action_cost": 0.0,
+        "margin_reward": 50.30541229248047
+    },
+    {
+        "action_cost": 0.0,
+        "margin_reward": 50.14926528930664
+    },
+    {
+        "action_cost": 0.0,
+        "margin_reward": 49.967384338378906
+    },
+    {
+        "action_cost": 0.0,
+        "margin_reward": 49.78152847290039
+    },
+    {
+        "action_cost": 0.0,
+        "margin_reward": 49.673744201660156
+    },
+    {
+        "action_cost": 0.0,
+        "margin_reward": 49.39628601074219
+    },
+    {
+        "action_cost": 0.0,
+        "margin_reward": 49.34560012817383
+    },
+    {
+        "action_cost": 0.0,
+        "margin_reward": 49.37057113647461
+    },
+    {
+        "action_cost": 0.0,
+        "margin_reward": 49.33022689819336
+    },
+    {
+        "action_cost": 0.0,
+        "margin_reward": 49.31132125854492
+    },
+    {
+        "action_cost": 0.0,
+        "margin_reward": 49.29121780395508
+    },
+    {
+        "action_cost": 0.0,
+        "margin_reward": 49.18296813964844
+    },
+    {
+        "action_cost": 0.0,
+        "margin_reward": 49.061065673828125
+    },
+    {
+        "action_cost": 0.0,
+        "margin_reward": 48.953529357910156
+    },
+    {
+        "action_cost": 0.0,
+        "margin_reward": 48.87063980102539
+    },
+    {
+        "action_cost": 0.0,
+        "margin_reward": 48.7725830078125
+    },
+    {
+        "action_cost": 0.0,
+        "margin_reward": 48.694480895996094
+    },
+    {
+        "action_cost": 0.0,
+        "margin_reward": 48.53886032104492
+    },
+    {
+        "action_cost": 0.0,
+        "margin_reward": 48.678977966308594
+    },
+    {
+        "action_cost": 0.0,
+        "margin_reward": 48.575218200683594
+    },
+    {
+        "action_cost": 0.0,
+        "margin_reward": 48.43840408325195
+    },
+    {
+        "action_cost": 0.0,
+        "margin_reward": 49.027828216552734
+    },
+    {
+        "action_cost": 0.0,
+        "margin_reward": 49.05156326293945
+    },
+    {
+        "action_cost": 0.0,
+        "margin_reward": 49.08283996582031
+    },
+    {
+        "action_cost": 0.0,
+        "margin_reward": 49.0257568359375
+    },
+    {
+        "action_cost": 0.0,
+        "margin_reward": 48.47355651855469
+    },
+    {
+        "action_cost": 0.0,
+        "margin_reward": 48.61296463012695
+    },
+    {
+        "action_cost": 0.0,
+        "margin_reward": 48.62691116333008
+    },
+    {
+        "action_cost": 0.0,
+        "margin_reward": 48.602298736572266
+    },
+    {
+        "action_cost": 0.0,
+        "margin_reward": 49.36832046508789
+    },
+    {
+        "action_cost": 0.0,
+        "margin_reward": 49.1690673828125
+    },
+    {
+        "action_cost": 0.0,
+        "margin_reward": 49.170772552490234
+    },
+    {
+        "action_cost": 0.0,
+        "margin_reward": 49.15858459472656
+    },
+    {
+        "action_cost": 0.0,
+        "margin_reward": 48.258522033691406
+    },
+    {
+        "action_cost": 0.0,
+        "margin_reward": 48.606651306152344
+    },
+    {
+        "action_cost": 0.0,
+        "margin_reward": 48.6087760925293
+    },
+    {
+        "action_cost": 0.0,
+        "margin_reward": 48.436279296875
+    },
+    {
+        "action_cost": 0.0,
+        "margin_reward": 48.395294189453125
+    },
+    {
+        "action_cost": 0.0,
+        "margin_reward": 48.346946716308594
+    },
+    {
+        "action_cost": 0.0,
+        "margin_reward": 48.59542465209961
+    },
+    {
+        "action_cost": 0.0,
+        "margin_reward": 48.550025939941406
+    },
+    {
+        "action_cost": 0.0,
+        "margin_reward": 48.46199417114258
+    },
+    {
+        "action_cost": 0.0,
+        "margin_reward": 48.43265914916992
+    },
+    {
+        "action_cost": 0.0,
+        "margin_reward": 48.50185012817383
+    },
+    {
+        "action_cost": 0.0,
+        "margin_reward": 48.34700012207031
+    },
+    {
+        "action_cost": 0.0,
+        "margin_reward": 48.38911056518555
+    },
+    {
+        "action_cost": 0.0,
+        "margin_reward": 48.46614074707031
+    },
+    {
+        "action_cost": 0.0,
+        "margin_reward": 48.510162353515625
+    },
+    {
+        "action_cost": 0.0,
+        "margin_reward": 48.64900207519531
+    },
+    {
+        "action_cost": 0.0,
+        "margin_reward": 49.42434310913086
+    },
+    {
+        "action_cost": 0.0,
+        "margin_reward": 49.44443130493164
+    },
+    {
+        "action_cost": 0.0,
+        "margin_reward": 49.68141555786133
+    },
+    {
+        "action_cost": 0.0,
+        "margin_reward": 49.260982513427734
+    },
+    {
+        "action_cost": 0.0,
+        "margin_reward": 48.535526275634766
+    },
+    {
+        "action_cost": 0.0,
+        "margin_reward": 48.63189697265625
+    },
+    {
+        "action_cost": 0.0,
+        "margin_reward": 48.58953094482422
+    },
+    {
+        "action_cost": 0.0,
+        "margin_reward": 48.299564361572266
+    },
+    {
+        "action_cost": 0.0,
+        "margin_reward": 48.440589904785156
+    },
+    {
+        "action_cost": 0.0,
+        "margin_reward": 48.3775749206543
+    },
+    {
+        "action_cost": 0.0,
+        "margin_reward": 48.66841125488281
+    },
+    {
+        "action_cost": 0.0,
+        "margin_reward": 48.844078063964844
+    },
+    {
+        "action_cost": 0.0,
+        "margin_reward": 48.87793731689453
+    },
+    {
+        "action_cost": 0.0,
+        "margin_reward": 48.99843978881836
+    },
+    {
+        "action_cost": 0.0,
+        "margin_reward": 48.79290771484375
+    },
+    {
+        "action_cost": 0.0,
+        "margin_reward": 48.890220642089844
+    },
+    {
+        "action_cost": 0.0,
+        "margin_reward": 48.869407653808594
+    },
+    {
+        "action_cost": 0.0,
+        "margin_reward": 49.47758865356445
+    },
+    {
+        "action_cost": 0.0,
+        "margin_reward": 49.5937385559082
+    },
+    {
+        "action_cost": 0.0,
+        "margin_reward": 49.45719528198242
+    },
+    {
+        "action_cost": 0.0,
+        "margin_reward": 49.4601936340332
+    },
+    {
+        "action_cost": 0.0,
+        "margin_reward": 48.82438278198242
+    },
+    {
+        "action_cost": 0.0,
+        "margin_reward": 48.985965728759766
+    },
+    {
+        "action_cost": 0.0,
+        "margin_reward": 49.004676818847656
+    },
+    {
+        "action_cost": 0.0,
+        "margin_reward": 49.37565231323242
+    },
+    {
+        "action_cost": 0.0,
+        "margin_reward": 49.38423156738281
+    },
+    {
+        "action_cost": 0.0,
+        "margin_reward": 49.5606575012207
+    },
+    {
+        "action_cost": 0.0,
+        "margin_reward": 49.420005798339844
+    },
+    {
+        "action_cost": 0.0,
+        "margin_reward": 49.511131286621094
+    },
+    {
+        "action_cost": 0.0,
+        "margin_reward": 49.579994201660156
+    },
+    {
+        "action_cost": 0.0,
+        "margin_reward": 49.59458923339844
+    },
+    {
+        "action_cost": 0.0,
+        "margin_reward": 49.54853820800781
+    },
+    {
+        "action_cost": 0.0,
+        "margin_reward": 49.734832763671875
+    },
+    {
+        "action_cost": 0.0,
+        "margin_reward": 49.55876159667969
+    },
+    {
+        "action_cost": 0.0,
+        "margin_reward": 49.65449523925781
+    },
+    {
+        "action_cost": 0.0,
+        "margin_reward": 49.55294418334961
+    },
+    {
+        "action_cost": 0.0,
+        "margin_reward": 49.548954010009766
+    },
+    {
+        "action_cost": 0.0,
+        "margin_reward": 49.552467346191406
+    },
+    {
+        "action_cost": 0.0,
+        "margin_reward": 49.44826126098633
+    },
+    {
+        "action_cost": 0.0,
+        "margin_reward": 49.50894546508789
+    },
+    {
+        "action_cost": 0.0,
+        "margin_reward": 49.64278030395508
+    },
+    {
+        "action_cost": 0.0,
+        "margin_reward": 49.72639465332031
+    },
+    {
+        "action_cost": 0.0,
+        "margin_reward": 49.689674377441406
+    },
+    {
+        "action_cost": 0.0,
+        "margin_reward": 49.806427001953125
+    },
+    {
+        "action_cost": 0.0,
+        "margin_reward": 50.06324005126953
+    },
+    {
+        "action_cost": 0.0,
+        "margin_reward": 50.10792922973633
+    },
+    {
+        "action_cost": 0.0,
+        "margin_reward": 50.13705825805664
+    },
+    {
+        "action_cost": 0.0,
+        "margin_reward": 50.207698822021484
+    },
+    {
+        "action_cost": 0.0,
+        "margin_reward": 49.94044494628906
+    },
+    {
+        "action_cost": 0.0,
+        "margin_reward": 49.90207290649414
+    },
+    {
+        "action_cost": 0.0,
+        "margin_reward": 49.92789840698242
+    },
+    {
+        "action_cost": 0.0,
+        "margin_reward": 49.97691345214844
+    },
+    {
+        "action_cost": 0.0,
+        "margin_reward": 50.2382926940918
+    },
+    {
+        "action_cost": 0.0,
+        "margin_reward": 50.30683898925781
+    },
+    {
+        "action_cost": 0.0,
+        "margin_reward": 50.245826721191406
+    },
+    {
+        "action_cost": 0.0,
+        "margin_reward": 50.215187072753906
+    },
+    {
+        "action_cost": 0.0,
+        "margin_reward": 50.143218994140625
+    },
+    {
+        "action_cost": 0.0,
+        "margin_reward": 50.35761642456055
+    },
+    {
+        "action_cost": 0.0,
+        "margin_reward": 50.449283599853516
+    },
+    {
+        "action_cost": 0.0,
+        "margin_reward": 50.610374450683594
+    },
+    {
+        "action_cost": 0.0,
+        "margin_reward": 50.629032135009766
+    },
+    {
+        "action_cost": 0.0,
+        "margin_reward": 50.53924560546875
+    },
+    {
+        "action_cost": 0.0,
+        "margin_reward": 50.46830368041992
+    },
+    {
+        "action_cost": 0.0,
+        "margin_reward": 50.54283142089844
+    },
+    {
+        "action_cost": 0.0,
+        "margin_reward": 50.44944381713867
+    },
+    {
+        "action_cost": 0.0,
+        "margin_reward": 50.3338623046875
+    },
+    {
+        "action_cost": 0.0,
+        "margin_reward": 50.77299499511719
+    },
+    {
+        "action_cost": 0.0,
+        "margin_reward": 50.81699752807617
+    },
+    {
+        "action_cost": 0.0,
+        "margin_reward": 50.93513107299805
+    },
+    {
+        "action_cost": 0.0,
+        "margin_reward": 50.980167388916016
+    },
+    {
+        "action_cost": 0.0,
+        "margin_reward": 51.125244140625
+    },
+    {
+        "action_cost": 0.0,
+        "margin_reward": 51.07784652709961
+    },
+    {
+        "action_cost": 0.0,
+        "margin_reward": 51.107303619384766
+    },
+    {
+        "action_cost": 0.0,
+        "margin_reward": 51.175048828125
+    },
+    {
+        "action_cost": 0.0,
+        "margin_reward": 50.56373596191406
+    },
+    {
+        "action_cost": 0.0,
+        "margin_reward": 50.37590789794922
+    },
+    {
+        "action_cost": 0.0,
+        "margin_reward": 50.35702896118164
+    },
+    {
+        "action_cost": 0.0,
+        "margin_reward": 50.31633758544922
+    },
+    {
+        "action_cost": 0.0,
+        "margin_reward": 50.26954650878906
+    },
+    {
+        "action_cost": 0.0,
+        "margin_reward": 50.08205032348633
+    },
+    {
+        "action_cost": 0.0,
+        "margin_reward": 50.05375289916992
+    },
+    {
+        "action_cost": 0.0,
+        "margin_reward": 50.033939361572266
+    },
+    {
+        "action_cost": 0.0,
+        "margin_reward": 50.09576416015625
+    },
+    {
+        "action_cost": 0.0,
+        "margin_reward": 49.88021469116211
+    },
+    {
+        "action_cost": 0.0,
+        "margin_reward": 49.823402404785156
+    },
+    {
+        "action_cost": 0.0,
+        "margin_reward": 49.66189193725586
+    },
+    {
+        "action_cost": 0.0,
+        "margin_reward": 49.669761657714844
+    },
+    {
+        "action_cost": 0.0,
+        "margin_reward": 49.599063873291016
+    },
+    {
+        "action_cost": 0.0,
+        "margin_reward": 49.357479095458984
+    },
+    {
+        "action_cost": 0.0,
+        "margin_reward": 49.36351776123047
+    },
+    {
+        "action_cost": 0.0,
+        "margin_reward": 49.28376770019531
+    },
+    {
+        "action_cost": 0.0,
+        "margin_reward": 49.13303756713867
+    },
+    {
+        "action_cost": 0.0,
+        "margin_reward": 49.06098937988281
+    },
+    {
+        "action_cost": 0.0,
+        "margin_reward": 48.9471321105957
+    },
+    {
+        "action_cost": 0.0,
+        "margin_reward": 48.83424377441406
+    },
+    {
+        "action_cost": 0.0,
+        "margin_reward": 48.800045013427734
+    },
+    {
+        "action_cost": 0.0,
+        "margin_reward": 48.75251007080078
+    },
+    {
+        "action_cost": 0.0,
+        "margin_reward": 48.722869873046875
+    },
+    {
+        "action_cost": 0.0,
+        "margin_reward": 48.904232025146484
+    },
+    {
+        "action_cost": 0.0,
+        "margin_reward": 48.90816116333008
+    },
+    {
+        "action_cost": 0.0,
+        "margin_reward": 48.930511474609375
+    },
+    {
+        "action_cost": 0.0,
+        "margin_reward": 49.1717529296875
+    },
+    {
+        "action_cost": 0.0,
+        "margin_reward": 49.15163803100586
+    },
+    {
+        "action_cost": 0.0,
+        "margin_reward": 49.25593948364258
+    },
+    {
+        "action_cost": 0.0,
+        "margin_reward": 49.290042877197266
+    },
+    {
+        "action_cost": 0.0,
+        "margin_reward": 49.39554214477539
+    },
+    {
+        "action_cost": 0.0,
+        "margin_reward": 49.61989974975586
+    },
+    {
+        "action_cost": 0.0,
+        "margin_reward": 49.561763763427734
+    },
+    {
+        "action_cost": 0.0,
+        "margin_reward": 49.63721466064453
+    },
+    {
+        "action_cost": 0.0,
+        "margin_reward": 49.69107437133789
+    },
+    {
+        "action_cost": 0.0,
+        "margin_reward": 49.81380081176758
+    },
+    {
+        "action_cost": 0.0,
+        "margin_reward": 49.879058837890625
+    },
+    {
+        "action_cost": 0.0,
+        "margin_reward": 49.83972930908203
+    },
+    {
+        "action_cost": 0.0,
+        "margin_reward": 49.99433135986328
+    },
+    {
+        "action_cost": 0.0,
+        "margin_reward": 50.00612258911133
+    },
+    {
+        "action_cost": 0.0,
+        "margin_reward": 50.18399429321289
+    },
+    {
+        "action_cost": 0.0,
+        "margin_reward": 50.240447998046875
+    },
+    {
+        "action_cost": 0.0,
+        "margin_reward": 50.2189826965332
+    },
+    {
+        "action_cost": 0.0,
+        "margin_reward": 50.14698028564453
+    },
+    {
+        "action_cost": 0.0,
+        "margin_reward": 50.197757720947266
+    },
+    {
+        "action_cost": 0.0,
+        "margin_reward": 50.69376754760742
+    },
+    {
+        "action_cost": 0.0,
+        "margin_reward": 50.653804779052734
+    },
+    {
+        "action_cost": 0.0,
+        "margin_reward": 50.751373291015625
+    },
+    {
+        "action_cost": 0.0,
+        "margin_reward": 50.53076171875
+    },
+    {
+        "action_cost": 0.0,
+        "margin_reward": 50.24403381347656
+    },
+    {
+        "action_cost": 0.0,
+        "margin_reward": 50.45124053955078
+    },
+    {
+        "action_cost": 0.0,
+        "margin_reward": 50.4373779296875
+    },
+    {
+        "action_cost": 0.0,
+        "margin_reward": 50.354347229003906
+    },
+    {
+        "action_cost": 0.0,
+        "margin_reward": 50.67040252685547
+    },
+    {
+        "action_cost": 0.0,
+        "margin_reward": 50.66521072387695
+    },
+    {
+        "action_cost": 0.0,
+        "margin_reward": 50.81996154785156
+    },
+    {
+        "action_cost": 0.0,
+        "margin_reward": 50.95106506347656
+    },
+    {
+        "action_cost": 0.0,
+        "margin_reward": 50.93731689453125
+    },
+    {
+        "action_cost": 0.0,
+        "margin_reward": 50.929195404052734
+    },
+    {
+        "action_cost": 0.0,
+        "margin_reward": 50.732791900634766
+    },
+    {
+        "action_cost": 0.0,
+        "margin_reward": 50.59649658203125
+    },
+    {
+        "action_cost": 0.0,
+        "margin_reward": 50.36276626586914
+    },
+    {
+        "action_cost": 0.0,
+        "margin_reward": 50.165565490722656
+    },
+    {
+        "action_cost": 0.0,
+        "margin_reward": 50.4589958190918
+    },
+    {
+        "action_cost": 0.0,
+        "margin_reward": 50.55430221557617
+    },
+    {
+        "action_cost": 0.0,
+        "margin_reward": 50.39720153808594
+    },
+    {
+        "action_cost": 0.0,
+        "margin_reward": 50.38683319091797
+    },
+    {
+        "action_cost": 0.0,
+        "margin_reward": 50.02507400512695
+    },
+    {
+        "action_cost": 0.0,
+        "margin_reward": 49.926353454589844
+    },
+    {
+        "action_cost": 0.0,
+        "margin_reward": 50.051605224609375
+    },
+    {
+        "action_cost": 0.0,
+        "margin_reward": 50.029136657714844
+    },
+    {
+        "action_cost": 0.0,
+        "margin_reward": 50.02089309692383
+    },
+    {
+        "action_cost": 0.0,
+        "margin_reward": 50.555843353271484
+    },
+    {
+        "action_cost": 0.0,
+        "margin_reward": 50.45988082885742
+    },
+    {
+        "action_cost": 0.0,
+        "margin_reward": 50.35804748535156
+    },
+    {
+        "action_cost": 0.0,
+        "margin_reward": 50.37286376953125
+    },
+    {
+        "action_cost": 0.0,
+        "margin_reward": 49.99155044555664
+    },
+    {
+        "action_cost": 0.0,
+        "margin_reward": 50.145782470703125
+    },
+    {
+        "action_cost": 0.0,
+        "margin_reward": 50.26306915283203
+    },
+    {
+        "action_cost": 0.0,
+        "margin_reward": 50.38565444946289
+    },
+    {
+        "action_cost": 0.0,
+        "margin_reward": 50.45937728881836
+    },
+    {
+        "action_cost": 0.0,
+        "margin_reward": 50.53007888793945
+    },
+    {
+        "action_cost": 0.0,
+        "margin_reward": 50.74314498901367
+    },
+    {
+        "action_cost": 0.0,
+        "margin_reward": 50.8525505065918
+    },
+    {
+        "action_cost": 0.0,
+        "margin_reward": 50.956626892089844
+    },
+    {
+        "action_cost": 0.0,
+        "margin_reward": 51.115482330322266
+    },
+    {
+        "action_cost": 0.0,
+        "margin_reward": 51.170658111572266
+    },
+    {
+        "action_cost": 0.0,
+        "margin_reward": 51.30926513671875
+    },
+    {
+        "action_cost": 0.0,
+        "margin_reward": 51.345829010009766
+    },
+    {
+        "action_cost": 0.0,
+        "margin_reward": 51.32280731201172
+    },
+    {
+        "action_cost": 0.0,
+        "margin_reward": 51.279197692871094
+    },
+    {
+        "action_cost": 0.0,
+        "margin_reward": 51.337806701660156
+    },
+    {
+        "action_cost": 0.0,
+        "margin_reward": 51.38201141357422
+    },
+    {
+        "action_cost": 0.0,
+        "margin_reward": 51.436767578125
+    },
+    {
+        "action_cost": 0.0,
+        "margin_reward": 51.47480010986328
+    },
+    {
+        "action_cost": 0.0,
+        "margin_reward": 51.40323257446289
+    },
+    {
+        "action_cost": 0.0,
+        "margin_reward": 51.50728225708008
+    },
+    {
+        "action_cost": 0.0,
+        "margin_reward": 51.49629592895508
+    },
+    {
+        "action_cost": 0.0,
+        "margin_reward": 51.5216064453125
+    },
+    {
+        "action_cost": 0.0,
+        "margin_reward": 51.463382720947266
+    },
+    {
+        "action_cost": 0.0,
+        "margin_reward": 51.42185974121094
+    },
+    {
+        "action_cost": 0.0,
+        "margin_reward": 51.474369049072266
+    },
+    {
+        "action_cost": 0.0,
+        "margin_reward": 51.52381134033203
+    },
+    {
+        "action_cost": 0.0,
+        "margin_reward": 51.53528594970703
+    },
+    {
+        "action_cost": 0.0,
+        "margin_reward": 51.443485260009766
+    },
+    {
+        "action_cost": 0.0,
+        "margin_reward": 51.438961029052734
+    },
+    {
+        "action_cost": 0.0,
+        "margin_reward": 51.37253189086914
+    },
+    {
+        "action_cost": 0.0,
+        "margin_reward": 51.21989440917969
+    },
+    {
+        "action_cost": 0.0,
+        "margin_reward": 51.12201690673828
+    },
+    {
+        "action_cost": 0.0,
+        "margin_reward": 51.075050354003906
+    },
+    {
+        "action_cost": 0.0,
+        "margin_reward": 50.82756423950195
+    },
+    {
+        "action_cost": 0.0,
+        "margin_reward": 50.77149200439453
+    },
+    {
+        "action_cost": 0.0,
+        "margin_reward": 50.474273681640625
+    },
+    {
+        "action_cost": 0.0,
+        "margin_reward": 50.3155517578125
+    },
+    {
+        "action_cost": 0.0,
+        "margin_reward": 50.07059860229492
+    },
+    {
+        "action_cost": 0.0,
+        "margin_reward": 49.936859130859375
+    },
+    {
+        "action_cost": 0.0,
+        "margin_reward": 49.70694351196289
+    },
+    {
+        "action_cost": 0.0,
+        "margin_reward": 49.474609375
+    },
+    {
+        "action_cost": 0.0,
+        "margin_reward": 49.18314743041992
+    },
+    {
+        "action_cost": 0.0,
+        "margin_reward": 49.18195343017578
+    },
+    {
+        "action_cost": 0.0,
+        "margin_reward": 49.127166748046875
+    },
+    {
+        "action_cost": 0.0,
+        "margin_reward": 49.06550979614258
+    },
+    {
+        "action_cost": 0.0,
+        "margin_reward": 49.043792724609375
+    },
+    {
+        "action_cost": 0.0,
+        "margin_reward": 49.04119873046875
+    },
+    {
+        "action_cost": 0.0,
+        "margin_reward": 48.8675651550293
+    },
+    {
+        "action_cost": 0.0,
+        "margin_reward": 48.90077590942383
+    },
+    {
+        "action_cost": 0.0,
+        "margin_reward": 48.748199462890625
+    },
+    {
+        "action_cost": 0.0,
+        "margin_reward": 48.788753509521484
+    },
+    {
+        "action_cost": 0.0,
+        "margin_reward": 48.55879211425781
+    },
+    {
+        "action_cost": 0.0,
+        "margin_reward": 48.4013557434082
+    },
+    {
+        "action_cost": 0.0,
+        "margin_reward": 48.653377532958984
+    },
+    {
+        "action_cost": 0.0,
+        "margin_reward": 48.44987487792969
+    },
+    {
+        "action_cost": 0.0,
+        "margin_reward": 48.406742095947266
+    },
+    {
+        "action_cost": 0.0,
+        "margin_reward": 48.383750915527344
+    },
+    {
+        "action_cost": 0.0,
+        "margin_reward": 48.599361419677734
+    },
+    {
+        "action_cost": 0.0,
+        "margin_reward": 48.697906494140625
+    },
+    {
+        "action_cost": 0.0,
+        "margin_reward": 48.63417434692383
+    },
+    {
+        "action_cost": 0.0,
+        "margin_reward": 48.99360656738281
+    },
+    {
+        "action_cost": 0.0,
+        "margin_reward": 49.35480499267578
+    },
+    {
+        "action_cost": 0.0,
+        "margin_reward": 49.79602813720703
+    },
+    {
+        "action_cost": 0.0,
+        "margin_reward": 50.12084197998047
+    },
+    {
+        "action_cost": 0.0,
+        "margin_reward": 50.04369354248047
+    },
+    {
+        "action_cost": 0.0,
+        "margin_reward": 50.29519271850586
+    },
+    {
+        "action_cost": 0.0,
+        "margin_reward": 50.615379333496094
+    },
+    {
+        "action_cost": 0.0,
+        "margin_reward": 50.717655181884766
+    },
+    {
+        "action_cost": 0.0,
+        "margin_reward": 51.012577056884766
+    },
+    {
+        "action_cost": 0.0,
+        "margin_reward": 51.05253982543945
+    },
+    {
+        "action_cost": 0.0,
+        "margin_reward": 51.23203659057617
+    },
+    {
+        "action_cost": 0.0,
+        "margin_reward": 51.36720657348633
+    },
+    {
+        "action_cost": 0.0,
+        "margin_reward": 51.577667236328125
+    },
+    {
+        "action_cost": 0.0,
+        "margin_reward": 51.69877243041992
+    },
+    {
+        "action_cost": 0.0,
+        "margin_reward": 51.79954528808594
+    },
+    {
+        "action_cost": 0.0,
+        "margin_reward": 51.74018096923828
+    },
+    {
+        "action_cost": 0.0,
+        "margin_reward": 51.72538375854492
+    },
+    {
+        "action_cost": 0.0,
+        "margin_reward": 51.788787841796875
+    },
+    {
+        "action_cost": 0.0,
+        "margin_reward": 51.79792785644531
+    },
+    {
+        "action_cost": 0.0,
+        "margin_reward": 51.8067512512207
+    },
+    {
+        "action_cost": 0.0,
+        "margin_reward": 51.787261962890625
+    },
+    {
+        "action_cost": 0.0,
+        "margin_reward": 51.80923080444336
+    },
+    {
+        "action_cost": 0.0,
+        "margin_reward": 51.76984786987305
+    },
+    {
+        "action_cost": 0.0,
+        "margin_reward": 51.65937805175781
+    },
+    {
+        "action_cost": 0.0,
+        "margin_reward": 51.59363555908203
+    },
+    {
+        "action_cost": 0.0,
+        "margin_reward": 51.54557800292969
+    },
+    {
+        "action_cost": 0.0,
+        "margin_reward": 51.35212707519531
+    },
+    {
+        "action_cost": 0.0,
+        "margin_reward": 51.31602096557617
+    },
+    {
+        "action_cost": 0.0,
+        "margin_reward": 51.11016845703125
+    },
+    {
+        "action_cost": 0.0,
+        "margin_reward": 50.998714447021484
+    },
+    {
+        "action_cost": 0.0,
+        "margin_reward": 50.832763671875
+    },
+    {
+        "action_cost": 0.0,
+        "margin_reward": 50.64860916137695
+    },
+    {
+        "action_cost": 0.0,
+        "margin_reward": 50.49828338623047
+    },
+    {
+        "action_cost": 0.0,
+        "margin_reward": 50.28541564941406
+    },
+    {
+        "action_cost": 0.0,
+        "margin_reward": 50.09168243408203
+    },
+    {
+        "action_cost": 0.0,
+        "margin_reward": 49.806461334228516
+    },
+    {
+        "action_cost": 0.0,
+        "margin_reward": 49.60074234008789
+    },
+    {
+        "action_cost": 0.0,
+        "margin_reward": 49.42028045654297
+    },
+    {
+        "action_cost": 0.0,
+        "margin_reward": 49.260807037353516
+    },
+    {
+        "action_cost": 0.0,
+        "margin_reward": 49.0256233215332
+    },
+    {
+        "action_cost": 0.0,
+        "margin_reward": 48.866294860839844
+    },
+    {
+        "action_cost": 0.0,
+        "margin_reward": 48.84585189819336
+    },
+    {
+        "action_cost": 0.0,
+        "margin_reward": 49.42323303222656
+    },
+    {
+        "action_cost": 0.0,
+        "margin_reward": 49.338104248046875
+    },
+    {
+        "action_cost": 0.0,
+        "margin_reward": 49.305145263671875
+    },
+    {
+        "action_cost": 0.0,
+        "margin_reward": 49.19906997680664
+    },
+    {
+        "action_cost": 0.0,
+        "margin_reward": 48.31292724609375
+    },
+    {
+        "action_cost": 0.0,
+        "margin_reward": 48.61237716674805
+    },
+    {
+        "action_cost": 0.0,
+        "margin_reward": 48.4830322265625
+    },
+    {
+        "action_cost": 0.0,
+        "margin_reward": 48.14055633544922
+    },
+    {
+        "action_cost": 0.0,
+        "margin_reward": 48.59184646606445
+    },
+    {
+        "action_cost": 0.0,
+        "margin_reward": 48.5883903503418
+    },
+    {
+        "action_cost": 0.0,
+        "margin_reward": 48.62399673461914
+    },
+    {
+        "action_cost": 0.0,
+        "margin_reward": 48.5784797668457
+    },
+    {
+        "action_cost": 0.0,
+        "margin_reward": 47.934566497802734
+    },
+    {
+        "action_cost": 0.0,
+        "margin_reward": 48.18601989746094
+    },
+    {
+        "action_cost": 0.0,
+        "margin_reward": 48.065757751464844
+    },
+    {
+        "action_cost": 0.0,
+        "margin_reward": 48.09775924682617
+    },
+    {
+        "action_cost": 0.0,
+        "margin_reward": 48.67103576660156
+    },
+    {
+        "action_cost": 0.0,
+        "margin_reward": 48.38463592529297
+    },
+    {
+        "action_cost": 0.0,
+        "margin_reward": 48.189178466796875
+    },
+    {
+        "action_cost": 0.0,
+        "margin_reward": 48.266963958740234
+    },
+    {
+        "action_cost": 0.0,
+        "margin_reward": 49.158241271972656
+    },
+    {
+        "action_cost": 0.0,
+        "margin_reward": 48.22012710571289
+    },
+    {
+        "action_cost": 0.0,
+        "margin_reward": 48.0647087097168
+    },
+    {
+        "action_cost": 0.0,
+        "margin_reward": 48.24446105957031
+    },
+    {
+        "action_cost": 0.0,
+        "margin_reward": 47.97563171386719
+    },
+    {
+        "action_cost": 0.0,
+        "margin_reward": 48.14444351196289
+    },
+    {
+        "action_cost": 0.0,
+        "margin_reward": 48.112022399902344
+    },
+    {
+        "action_cost": 0.0,
+        "margin_reward": 47.965187072753906
+    },
+    {
+        "action_cost": 0.0,
+        "margin_reward": 47.98256301879883
+    },
+    {
+        "action_cost": 0.0,
+        "margin_reward": 48.08290100097656
+    },
+    {
+        "action_cost": 0.0,
+        "margin_reward": 48.4769401550293
+    },
+    {
+        "action_cost": 0.0,
+        "margin_reward": 48.64299011230469
+    },
+    {
+        "action_cost": 0.0,
+        "margin_reward": 48.58533477783203
+    },
+    {
+        "action_cost": 0.0,
+        "margin_reward": 48.435447692871094
+    },
+    {
+        "action_cost": 0.0,
+        "margin_reward": 48.168853759765625
+    },
+    {
+        "action_cost": 0.0,
+        "margin_reward": 48.40027618408203
+    },
+    {
+        "action_cost": 0.0,
+        "margin_reward": 48.49154281616211
+    },
+    {
+        "action_cost": 0.0,
+        "margin_reward": 48.53022766113281
+    },
+    {
+        "action_cost": 0.0,
+        "margin_reward": 49.76917266845703
+    },
+    {
+        "action_cost": 0.0,
+        "margin_reward": 49.42530059814453
+    },
+    {
+        "action_cost": 0.0,
+        "margin_reward": 49.2494010925293
+    },
+    {
+        "action_cost": 0.0,
+        "margin_reward": 49.33062744140625
+    },
+    {
+        "action_cost": 0.0,
+        "margin_reward": 48.216346740722656
+    },
+    {
+        "action_cost": 0.0,
+        "margin_reward": 48.58728790283203
+    },
+    {
+        "action_cost": 0.0,
+        "margin_reward": 48.655792236328125
+    },
+    {
+        "action_cost": 0.0,
+        "margin_reward": 48.64299774169922
+    },
+    {
+        "action_cost": 0.0,
+        "margin_reward": 48.870628356933594
+    },
+    {
+        "action_cost": 0.0,
+        "margin_reward": 48.67211151123047
+    },
+    {
+        "action_cost": 0.0,
+        "margin_reward": 48.6933708190918
+    },
+    {
+        "action_cost": 0.0,
+        "margin_reward": 48.67966842651367
+    },
+    {
+        "action_cost": 0.0,
+        "margin_reward": 48.929378509521484
+    },
+    {
+        "action_cost": 0.0,
+        "margin_reward": 48.642913818359375
+    },
+    {
+        "action_cost": 0.0,
+        "margin_reward": 48.49655532836914
+    },
+    {
+        "action_cost": 0.0,
+        "margin_reward": 48.685428619384766
+    },
+    {
+        "action_cost": 0.0,
+        "margin_reward": 48.59495162963867
+    },
+    {
+        "action_cost": 0.0,
+        "margin_reward": 48.7230339050293
+    },
+    {
+        "action_cost": 0.0,
+        "margin_reward": 48.81795120239258
+    },
+    {
+        "action_cost": 0.0,
+        "margin_reward": 49.04399108886719
+    },
+    {
+        "action_cost": 0.0,
+        "margin_reward": 49.14677810668945
+    },
+    {
+        "action_cost": 0.0,
+        "margin_reward": 49.17705535888672
+    },
+    {
+        "action_cost": 0.0,
+        "margin_reward": 49.31353759765625
+    },
+    {
+        "action_cost": 0.0,
+        "margin_reward": 49.484580993652344
+    },
+    {
+        "action_cost": 0.0,
+        "margin_reward": 49.73455047607422
+    },
+    {
+        "action_cost": 0.0,
+        "margin_reward": 49.67808151245117
+    },
+    {
+        "action_cost": 0.0,
+        "margin_reward": 49.45501708984375
+    },
+    {
+        "action_cost": 0.0,
+        "margin_reward": 49.418704986572266
+    },
+    {
+        "action_cost": 0.0,
+        "margin_reward": 49.39961242675781
+    },
+    {
+        "action_cost": 0.0,
+        "margin_reward": 49.38623809814453
+    },
+    {
+        "action_cost": 0.0,
+        "margin_reward": 49.38739013671875
+    },
+    {
+        "action_cost": 0.0,
+        "margin_reward": 49.40678405761719
+    },
+    {
+        "action_cost": 0.0,
+        "margin_reward": 49.350440979003906
+    },
+    {
+        "action_cost": 0.0,
+        "margin_reward": 49.40121841430664
+    },
+    {
+        "action_cost": 0.0,
+        "margin_reward": 49.325069427490234
+    },
+    {
+        "action_cost": 0.0,
+        "margin_reward": 49.38058853149414
+    },
+    {
+        "action_cost": 0.0,
+        "margin_reward": 49.35435104370117
+    },
+    {
+        "action_cost": 0.0,
+        "margin_reward": 49.74112319946289
+    },
+    {
+        "action_cost": 0.0,
+        "margin_reward": 49.572723388671875
+    },
+    {
+        "action_cost": 0.0,
+        "margin_reward": 49.590911865234375
+    },
+    {
+        "action_cost": 0.0,
+        "margin_reward": 49.68434143066406
+    },
+    {
+        "action_cost": 0.0,
+        "margin_reward": 49.685638427734375
+    },
+    {
+        "action_cost": 0.0,
+        "margin_reward": 49.691314697265625
+    },
+    {
+        "action_cost": 0.0,
+        "margin_reward": 49.73410415649414
+    },
+    {
+        "action_cost": 0.0,
+        "margin_reward": 49.75178146362305
+    },
+    {
+        "action_cost": 0.0,
+        "margin_reward": 49.62747573852539
+    },
+    {
+        "action_cost": 0.0,
+        "margin_reward": 49.56855010986328
+    },
+    {
+        "action_cost": 0.0,
+        "margin_reward": 49.6761474609375
+    },
+    {
+        "action_cost": 0.0,
+        "margin_reward": 49.56730651855469
+    },
+    {
+        "action_cost": 0.0,
+        "margin_reward": 49.731956481933594
+    },
+    {
+        "action_cost": 0.0,
+        "margin_reward": 49.90282440185547
+    },
+    {
+        "action_cost": 0.0,
+        "margin_reward": 49.74998474121094
+    },
+    {
+        "action_cost": 0.0,
+        "margin_reward": 49.767066955566406
+    },
+    {
+        "action_cost": 0.0,
+        "margin_reward": 49.79405212402344
+    },
+    {
+        "action_cost": 0.0,
+        "margin_reward": 49.75760269165039
+    },
+    {
+        "action_cost": 0.0,
+        "margin_reward": 49.767601013183594
+    },
+    {
+        "action_cost": 0.0,
+        "margin_reward": 49.863441467285156
+    },
+    {
+        "action_cost": 0.0,
+        "margin_reward": 49.88993453979492
+    },
+    {
+        "action_cost": 0.0,
+        "margin_reward": 49.749366760253906
+    },
+    {
+        "action_cost": 0.0,
+        "margin_reward": 49.83043670654297
+    },
+    {
+        "action_cost": 0.0,
+        "margin_reward": 50.0029296875
+    },
+    {
+        "action_cost": 0.0,
+        "margin_reward": 50.016395568847656
+    },
+    {
+        "action_cost": 0.0,
+        "margin_reward": 50.05295181274414
+    },
+    {
+        "action_cost": 0.0,
+        "margin_reward": 50.05611038208008
+    },
+    {
+        "action_cost": 0.0,
+        "margin_reward": 50.13661575317383
+    },
+    {
+        "action_cost": 0.0,
+        "margin_reward": 50.172969818115234
+    },
+    {
+        "action_cost": 0.0,
+        "margin_reward": 50.168235778808594
+    },
+    {
+        "action_cost": 0.0,
+        "margin_reward": 50.09312057495117
+    },
+    {
+        "action_cost": 0.0,
+        "margin_reward": 49.97355651855469
+    },
+    {
+        "action_cost": 0.0,
+        "margin_reward": 49.935550689697266
+    },
+    {
+        "action_cost": 0.0,
+        "margin_reward": 50.03727722167969
+    },
+    {
+        "action_cost": 0.0,
+        "margin_reward": 50.01628112792969
+    },
+    {
+        "action_cost": 0.0,
+        "margin_reward": 49.88025665283203
+    },
+    {
+        "action_cost": 0.0,
+        "margin_reward": 49.71430206298828
+    },
+    {
+        "action_cost": 0.0,
+        "margin_reward": 49.62940979003906
+    },
+    {
+        "action_cost": 0.0,
+        "margin_reward": 49.66691970825195
+    },
+    {
+        "action_cost": 0.0,
+        "margin_reward": 49.4365234375
+    },
+    {
+        "action_cost": 0.0,
+        "margin_reward": 49.5961799621582
+    },
+    {
+        "action_cost": 0.0,
+        "margin_reward": 49.26428985595703
+    },
+    {
+        "action_cost": 0.0,
+        "margin_reward": 49.39588928222656
+    },
+    {
+        "action_cost": 0.0,
+        "margin_reward": 49.228843688964844
+    },
+    {
+        "action_cost": 0.0,
+        "margin_reward": 49.28581619262695
+    },
+    {
+        "action_cost": 0.0,
+        "margin_reward": 49.159244537353516
+    },
+    {
+        "action_cost": 0.0,
+        "margin_reward": 48.896270751953125
+    },
+    {
+        "action_cost": 0.0,
+        "margin_reward": 48.9029541015625
+    },
+    {
+        "action_cost": 0.0,
+        "margin_reward": 48.761688232421875
+    },
+    {
+        "action_cost": 0.0,
+        "margin_reward": 48.89057159423828
+    },
+    {
+        "action_cost": 0.0,
+        "margin_reward": 48.905113220214844
+    },
+    {
+        "action_cost": 0.0,
+        "margin_reward": 48.63212585449219
+    },
+    {
+        "action_cost": 0.0,
+        "margin_reward": 48.88532257080078
+    },
+    {
+        "action_cost": 0.0,
+        "margin_reward": 48.58538818359375
+    },
+    {
+        "action_cost": 0.0,
+        "margin_reward": 48.597347259521484
+    },
+    {
+        "action_cost": 0.0,
+        "margin_reward": 48.51579666137695
+    },
+    {
+        "action_cost": 0.0,
+        "margin_reward": 48.480228424072266
+    },
+    {
+        "action_cost": 0.0,
+        "margin_reward": 49.02505111694336
+    },
+    {
+        "action_cost": 0.0,
+        "margin_reward": 49.48807907104492
+    },
+    {
+        "action_cost": 0.0,
+        "margin_reward": 49.6927375793457
+    },
+    {
+        "action_cost": 0.0,
+        "margin_reward": 49.85092544555664
+    },
+    {
+        "action_cost": 0.0,
+        "margin_reward": 49.401756286621094
+    },
+    {
+        "action_cost": 0.0,
+        "margin_reward": 49.222740173339844
+    },
+    {
+        "action_cost": 0.0,
+        "margin_reward": 49.58977508544922
+    },
+    {
+        "action_cost": 0.0,
+        "margin_reward": 49.54023361206055
+    },
+    {
+        "action_cost": 0.0,
+        "margin_reward": 49.482913970947266
+    },
+    {
+        "action_cost": 0.0,
+        "margin_reward": 49.55497360229492
+    },
+    {
+        "action_cost": 0.0,
+        "margin_reward": 49.59128189086914
+    },
+    {
+        "action_cost": 0.0,
+        "margin_reward": 49.61360549926758
+    },
+    {
+        "action_cost": 0.0,
+        "margin_reward": 49.67982482910156
+    },
+    {
+        "action_cost": 0.0,
+        "margin_reward": 49.833465576171875
+    },
+    {
+        "action_cost": 0.0,
+        "margin_reward": 49.8314094543457
+    },
+    {
+        "action_cost": 0.0,
+        "margin_reward": 49.938472747802734
+    },
+    {
+        "action_cost": 0.0,
+        "margin_reward": 50.11161422729492
+    },
+    {
+        "action_cost": 0.0,
+        "margin_reward": 50.34037780761719
+    },
+    {
+        "action_cost": 0.0,
+        "margin_reward": 50.28867721557617
+    },
+    {
+        "action_cost": 0.0,
+        "margin_reward": 50.38357925415039
+    },
+    {
+        "action_cost": 0.0,
+        "margin_reward": 50.341163635253906
+    },
+    {
+        "action_cost": 0.0,
+        "margin_reward": 50.32499694824219
+    },
+    {
+        "action_cost": 0.0,
+        "margin_reward": 50.276607513427734
+    },
+    {
+        "action_cost": 0.0,
+        "margin_reward": 50.37821578979492
+    },
+    {
+        "action_cost": 0.0,
+        "margin_reward": 50.50564956665039
+    },
+    {
+        "action_cost": 0.0,
+        "margin_reward": 50.376827239990234
+    },
+    {
+        "action_cost": 0.0,
+        "margin_reward": 50.46403121948242
+    },
+    {
+        "action_cost": 0.0,
+        "margin_reward": 50.35195541381836
+    },
+    {
+        "action_cost": 0.0,
+        "margin_reward": 50.46123123168945
+    },
+    {
+        "action_cost": 0.0,
+        "margin_reward": 50.59260177612305
+    },
+    {
+        "action_cost": 0.0,
+        "margin_reward": 50.69808578491211
+    },
+    {
+        "action_cost": 0.0,
+        "margin_reward": 50.816490173339844
+    },
+    {
+        "action_cost": 0.0,
+        "margin_reward": 50.97671890258789
+    },
+    {
+        "action_cost": 0.0,
+        "margin_reward": 51.26777267456055
+    },
+    {
+        "action_cost": 0.0,
+        "margin_reward": 51.22648620605469
+    },
+    {
+        "action_cost": 0.0,
+        "margin_reward": 51.23812484741211
+    },
+    {
+        "action_cost": 0.0,
+        "margin_reward": 51.09865188598633
+    },
+    {
+        "action_cost": 0.0,
+        "margin_reward": 50.88912582397461
+    },
+    {
+        "action_cost": 0.0,
+        "margin_reward": 50.74639129638672
+    },
+    {
+        "action_cost": 0.0,
+        "margin_reward": 50.58800506591797
+    },
+    {
+        "action_cost": 0.0,
+        "margin_reward": 50.43355178833008
+    },
+    {
+        "action_cost": 0.0,
+        "margin_reward": 50.44080352783203
+    },
+    {
+        "action_cost": 0.0,
+        "margin_reward": 50.35780334472656
+    },
+    {
+        "action_cost": 0.0,
+        "margin_reward": 50.31146240234375
+    },
+    {
+        "action_cost": 0.0,
+        "margin_reward": 50.223018646240234
+    },
+    {
+        "action_cost": 0.0,
+        "margin_reward": 50.294342041015625
+    },
+    {
+        "action_cost": 0.0,
+        "margin_reward": 50.33557891845703
+    },
+    {
+        "action_cost": 0.0,
+        "margin_reward": 50.34467315673828
+    },
+    {
+        "action_cost": 0.0,
+        "margin_reward": 50.362884521484375
+    },
+    {
+        "action_cost": 0.0,
+        "margin_reward": 50.34605407714844
+    },
+    {
+        "action_cost": 0.0,
+        "margin_reward": 50.4052848815918
+    },
+    {
+        "action_cost": 0.0,
+        "margin_reward": 50.48268508911133
+    },
+    {
+        "action_cost": 0.0,
+        "margin_reward": 50.409751892089844
+    },
+    {
+        "action_cost": 0.0,
+        "margin_reward": 50.46458053588867
+    },
+    {
+        "action_cost": 0.0,
+        "margin_reward": 50.546207427978516
+    },
+    {
+        "action_cost": 0.0,
+        "margin_reward": 50.696434020996094
+    },
+    {
+        "action_cost": 0.0,
+        "margin_reward": 50.89448547363281
+    },
+    {
+        "action_cost": 0.0,
+        "margin_reward": 50.990657806396484
+    },
+    {
+        "action_cost": 0.0,
+        "margin_reward": 51.211570739746094
+    },
+    {
+        "action_cost": 0.0,
+        "margin_reward": 51.29240798950195
+    },
+    {
+        "action_cost": 0.0,
+        "margin_reward": 51.42831802368164
+    },
+    {
+        "action_cost": 0.0,
+        "margin_reward": 51.60580825805664
+    },
+    {
+        "action_cost": 0.0,
+        "margin_reward": 51.73289108276367
+    },
+    {
+        "action_cost": 0.0,
+        "margin_reward": 51.69407272338867
+    },
+    {
+        "action_cost": 0.0,
+        "margin_reward": 51.865882873535156
+    },
+    {
+        "action_cost": 0.0,
+        "margin_reward": 51.92162322998047
+    },
+    {
+        "action_cost": 0.0,
+        "margin_reward": 51.8734016418457
+    },
+    {
+        "action_cost": 0.0,
+        "margin_reward": 51.9311408996582
+    },
+    {
+        "action_cost": 0.0,
+        "margin_reward": 51.88315200805664
+    },
+    {
+        "action_cost": 0.0,
+        "margin_reward": 51.99858856201172
+    },
+    {
+        "action_cost": 0.0,
+        "margin_reward": 51.981666564941406
+    },
+    {
+        "action_cost": 0.0,
+        "margin_reward": 51.97190475463867
+    },
+    {
+        "action_cost": 0.0,
+        "margin_reward": 52.03285598754883
+    },
+    {
+        "action_cost": 0.0,
+        "margin_reward": 51.91904830932617
+    },
+    {
+        "action_cost": 0.0,
+        "margin_reward": 51.910987854003906
+    },
+    {
+        "action_cost": 0.0,
+        "margin_reward": 51.78608703613281
+    },
+    {
+        "action_cost": 0.0,
+        "margin_reward": 51.70903396606445
+    },
+    {
+        "action_cost": 0.0,
+        "margin_reward": 51.61454391479492
+    },
+    {
+        "action_cost": 0.0,
+        "margin_reward": 51.591529846191406
+    },
+    {
+        "action_cost": 0.0,
+        "margin_reward": 51.612911224365234
+    },
+    {
+        "action_cost": 0.0,
+        "margin_reward": 51.51884841918945
+    },
+    {
+        "action_cost": 0.0,
+        "margin_reward": 51.52918243408203
+    },
+    {
+        "action_cost": 0.0,
+        "margin_reward": 51.47878646850586
+    },
+    {
+        "action_cost": 0.0,
+        "margin_reward": 51.407230377197266
+    },
+    {
+        "action_cost": 0.0,
+        "margin_reward": 51.43979263305664
+    },
+    {
+        "action_cost": 0.0,
+        "margin_reward": 51.212162017822266
+    },
+    {
+        "action_cost": 0.0,
+        "margin_reward": 51.123653411865234
+    },
+    {
+        "action_cost": 0.0,
+        "margin_reward": 50.942440032958984
+    },
+    {
+        "action_cost": 0.0,
+        "margin_reward": 50.78792953491211
+    },
+    {
+        "action_cost": 0.0,
+        "margin_reward": 50.664180755615234
+    },
+    {
+        "action_cost": 0.0,
+        "margin_reward": 50.330570220947266
+    },
+    {
+        "action_cost": 0.0,
+        "margin_reward": 50.16139221191406
+    },
+    {
+        "action_cost": 0.0,
+        "margin_reward": 49.894187927246094
+    },
+    {
+        "action_cost": 0.0,
+        "margin_reward": 49.85417175292969
+    },
+    {
+        "action_cost": 0.0,
+        "margin_reward": 49.5387077331543
+    },
+    {
+        "action_cost": 0.0,
+        "margin_reward": 49.47264862060547
+    },
+    {
+        "action_cost": 0.0,
+        "margin_reward": 49.67118835449219
+    },
+    {
+        "action_cost": 0.0,
+        "margin_reward": 49.333194732666016
+    },
+    {
+        "action_cost": 0.0,
+        "margin_reward": 49.31199645996094
+    },
+    {
+        "action_cost": 0.0,
+        "margin_reward": 49.26322555541992
+    },
+    {
+        "action_cost": 0.0,
+        "margin_reward": 49.084476470947266
+    },
+    {
+        "action_cost": 0.0,
+        "margin_reward": 49.03694152832031
+    },
+    {
+        "action_cost": 0.0,
+        "margin_reward": 49.12860870361328
+    },
+    {
+        "action_cost": 0.0,
+        "margin_reward": 49.09096908569336
+    },
+    {
+        "action_cost": 0.0,
+        "margin_reward": 49.14567565917969
+    },
+    {
+        "action_cost": 0.0,
+        "margin_reward": 49.30966567993164
+    },
+    {
+        "action_cost": 0.0,
+        "margin_reward": 49.51969528198242
+    },
+    {
+        "action_cost": 0.0,
+        "margin_reward": 49.494571685791016
+    },
+    {
+        "action_cost": 0.0,
+        "margin_reward": 49.46946716308594
+    },
+    {
+        "action_cost": 0.0,
+        "margin_reward": 49.493614196777344
+    },
+    {
+        "action_cost": 0.0,
+        "margin_reward": 49.61742401123047
+    },
+    {
+        "action_cost": 0.0,
+        "margin_reward": 49.587120056152344
+    },
+    {
+        "action_cost": 0.0,
+        "margin_reward": 49.82212829589844
+    },
+    {
+        "action_cost": 0.0,
+        "margin_reward": 49.81393814086914
+    },
+    {
+        "action_cost": 0.0,
+        "margin_reward": 50.19687271118164
+    },
+    {
+        "action_cost": 0.0,
+        "margin_reward": 50.35729217529297
+    },
+    {
+        "action_cost": 0.0,
+        "margin_reward": 50.54021072387695
+    },
+    {
+        "action_cost": 0.0,
+        "margin_reward": 50.69533157348633
+    },
+    {
+        "action_cost": 0.0,
+        "margin_reward": 50.867767333984375
+    },
+    {
+        "action_cost": 0.0,
+        "margin_reward": 51.0798454284668
+    },
+    {
+        "action_cost": 0.0,
+        "margin_reward": 51.1884651184082
+    },
+    {
+        "action_cost": 0.0,
+        "margin_reward": 51.43953323364258
+    },
+    {
+        "action_cost": 0.0,
+        "margin_reward": 51.6506462097168
+    },
+    {
+        "action_cost": 0.0,
+        "margin_reward": 51.65045166015625
+    },
+    {
+        "action_cost": 0.0,
+        "margin_reward": 51.779998779296875
+    },
+    {
+        "action_cost": 0.0,
+        "margin_reward": 51.610660552978516
+    },
+    {
+        "action_cost": 0.0,
+        "margin_reward": 51.70821762084961
+    },
+    {
+        "action_cost": 0.0,
+        "margin_reward": 51.81626892089844
+    },
+    {
+        "action_cost": 0.0,
+        "margin_reward": 51.818336486816406
+    },
+    {
+        "action_cost": 0.0,
+        "margin_reward": 51.771339416503906
+    },
+    {
+        "action_cost": 0.0,
+        "margin_reward": 51.63444137573242
+    },
+    {
+        "action_cost": 0.0,
+        "margin_reward": 51.60443115234375
+    },
+    {
+        "action_cost": 0.0,
+        "margin_reward": 51.529117584228516
+    },
+    {
+        "action_cost": 0.0,
+        "margin_reward": 51.4433479309082
+    },
+    {
+        "action_cost": 0.0,
+        "margin_reward": 51.32822036743164
+    },
+    {
+        "action_cost": 0.0,
+        "margin_reward": 51.168312072753906
+    },
+    {
+        "action_cost": 0.0,
+        "margin_reward": 51.05406951904297
+    },
+    {
+        "action_cost": 0.0,
+        "margin_reward": 50.96900939941406
+    },
+    {
+        "action_cost": 0.0,
+        "margin_reward": 50.88771057128906
+    },
+    {
+        "action_cost": 0.0,
+        "margin_reward": 50.70512390136719
+    },
+    {
+        "action_cost": 0.0,
+        "margin_reward": 50.61393356323242
+    },
+    {
+        "action_cost": 0.0,
+        "margin_reward": 50.519840240478516
+    },
+    {
+        "action_cost": 0.0,
+        "margin_reward": 50.319549560546875
+    },
+    {
+        "action_cost": 0.0,
+        "margin_reward": 50.22418212890625
+    },
+    {
+        "action_cost": 0.0,
+        "margin_reward": 49.95112609863281
+    },
+    {
+        "action_cost": 0.0,
+        "margin_reward": 49.83116912841797
+    },
+    {
+        "action_cost": 0.0,
+        "margin_reward": 49.741455078125
+    },
+    {
+        "action_cost": 0.0,
+        "margin_reward": 49.728675842285156
+    },
+    {
+        "action_cost": 0.0,
+        "margin_reward": 49.63262939453125
+    },
+    {
+        "action_cost": 0.0,
+        "margin_reward": 49.638282775878906
+    },
+    {
+        "action_cost": 0.0,
+        "margin_reward": 49.516727447509766
+    },
+    {
+        "action_cost": 0.0,
+        "margin_reward": 49.508872985839844
+    },
+    {
+        "action_cost": 0.0,
+        "margin_reward": 49.44282913208008
+    },
+    {
+        "action_cost": 0.0,
+        "margin_reward": 49.399757385253906
+    },
+    {
+        "action_cost": 0.0,
+        "margin_reward": 49.220603942871094
+    },
+    {
+        "action_cost": 0.0,
+        "margin_reward": 49.22895812988281
+    },
+    {
+        "action_cost": 0.0,
+        "margin_reward": 49.07831954956055
+    },
+    {
+        "action_cost": 0.0,
+        "margin_reward": 48.959815979003906
+    },
+    {
+        "action_cost": 0.0,
+        "margin_reward": 48.80520248413086
+    },
+    {
+        "action_cost": 0.0,
+        "margin_reward": 48.65186309814453
+    },
+    {
+        "action_cost": 0.0,
+        "margin_reward": 48.578880310058594
+    },
+    {
+        "action_cost": 0.0,
+        "margin_reward": 48.61905288696289
+    },
+    {
+        "action_cost": 0.0,
+        "margin_reward": 48.520355224609375
+    },
+    {
+        "action_cost": 0.0,
+        "margin_reward": 48.51737976074219
+    },
+    {
+        "action_cost": 0.0,
+        "margin_reward": 48.49251937866211
+    },
+    {
+        "action_cost": 0.0,
+        "margin_reward": 48.531734466552734
+    },
+    {
+        "action_cost": 0.0,
+        "margin_reward": 48.72024917602539
+    },
+    {
+        "action_cost": 0.0,
+        "margin_reward": 48.657562255859375
+    },
+    {
+        "action_cost": 0.0,
+        "margin_reward": 48.553428649902344
+    },
+    {
+        "action_cost": 0.0,
+        "margin_reward": 48.552589416503906
+    },
+    {
+        "action_cost": 0.0,
+        "margin_reward": 48.567474365234375
+    },
+    {
+        "action_cost": 0.0,
+        "margin_reward": 48.49713897705078
+    },
+    {
+        "action_cost": 0.0,
+        "margin_reward": 48.403255462646484
+    },
+    {
+        "action_cost": 0.0,
+        "margin_reward": 48.49781036376953
+    },
+    {
+        "action_cost": 0.0,
+        "margin_reward": 48.503761291503906
+    },
+    {
+        "action_cost": 0.0,
+        "margin_reward": 48.43040084838867
+    },
+    {
+        "action_cost": 0.0,
+        "margin_reward": 48.37941360473633
+    },
+    {
+        "action_cost": 0.0,
+        "margin_reward": 48.58349609375
+    },
+    {
+        "action_cost": 0.0,
+        "margin_reward": 48.55266571044922
+    },
+    {
+        "action_cost": 0.0,
+        "margin_reward": 48.565093994140625
+    },
+    {
+        "action_cost": 0.0,
+        "margin_reward": 48.49896240234375
+    },
+    {
+        "action_cost": 0.0,
+        "margin_reward": 48.57111740112305
+    },
+    {
+        "action_cost": 0.0,
+        "margin_reward": 48.591644287109375
+    },
+    {
+        "action_cost": 0.0,
+        "margin_reward": 48.67838668823242
+    },
+    {
+        "action_cost": 0.0,
+        "margin_reward": 48.566078186035156
+    },
+    {
+        "action_cost": 0.0,
+        "margin_reward": 48.66106414794922
+    },
+    {
+        "action_cost": 0.0,
+        "margin_reward": 48.61983871459961
+    },
+    {
+        "action_cost": 0.0,
+        "margin_reward": 48.836814880371094
+    },
+    {
+        "action_cost": 0.0,
+        "margin_reward": 48.79153823852539
+    },
+    {
+        "action_cost": 0.0,
+        "margin_reward": 48.81764221191406
+    },
+    {
+        "action_cost": 0.0,
+        "margin_reward": 48.7736930847168
+    },
+    {
+        "action_cost": 0.0,
+        "margin_reward": 48.808162689208984
+    },
+    {
+        "action_cost": 0.0,
+        "margin_reward": 48.721920013427734
+    },
+    {
+        "action_cost": 0.0,
+        "margin_reward": 48.6893310546875
+    },
+    {
+        "action_cost": 0.0,
+        "margin_reward": 48.70880889892578
+    },
+    {
+        "action_cost": 0.0,
+        "margin_reward": 48.875999450683594
+    },
+    {
+        "action_cost": 0.0,
+        "margin_reward": 48.80059051513672
+    },
+    {
+        "action_cost": 0.0,
+        "margin_reward": 48.789085388183594
+    },
+    {
+        "action_cost": 0.0,
+        "margin_reward": 48.9500732421875
+    },
+    {
+        "action_cost": 0.0,
+        "margin_reward": 49.026947021484375
+    },
+    {
+        "action_cost": 0.0,
+        "margin_reward": 49.00752258300781
+    },
+    {
+        "action_cost": 0.0,
+        "margin_reward": 48.96909713745117
+    },
+    {
+        "action_cost": 0.0,
+        "margin_reward": 48.87821960449219
+    },
+    {
+        "action_cost": 0.0,
+        "margin_reward": 49.01850891113281
+    },
+    {
+        "action_cost": 0.0,
+        "margin_reward": 49.09573745727539
+    },
+    {
+        "action_cost": 0.0,
+        "margin_reward": 49.05433654785156
+    },
+    {
+        "action_cost": 0.0,
+        "margin_reward": 48.964561462402344
+    },
+    {
+        "action_cost": 0.0,
+        "margin_reward": 49.148223876953125
+    },
+    {
+        "action_cost": 0.0,
+        "margin_reward": 49.13645935058594
+    },
+    {
+        "action_cost": 0.0,
+        "margin_reward": 49.11682891845703
+    },
+    {
+        "action_cost": 0.0,
+        "margin_reward": 49.22791290283203
+    },
+    {
+        "action_cost": 0.0,
+        "margin_reward": 49.31420135498047
+    },
+    {
+        "action_cost": 0.0,
+        "margin_reward": 49.228153228759766
+    },
+    {
+        "action_cost": 0.0,
+        "margin_reward": 49.238040924072266
+    },
+    {
+        "action_cost": 0.0,
+        "margin_reward": 49.25466537475586
+    },
+    {
+        "action_cost": 0.0,
+        "margin_reward": 49.401268005371094
+    },
+    {
+        "action_cost": 0.0,
+        "margin_reward": 49.56909942626953
+    },
+    {
+        "action_cost": 0.0,
+        "margin_reward": 49.645267486572266
+    },
+    {
+        "action_cost": 0.0,
+        "margin_reward": 49.63330078125
+    },
+    {
+        "action_cost": 0.0,
+        "margin_reward": 49.70220184326172
+    },
+    {
+        "action_cost": 0.0,
+        "margin_reward": 49.65274429321289
+    },
+    {
+        "action_cost": 0.0,
+        "margin_reward": 49.753177642822266
+    },
+    {
+        "action_cost": 0.0,
+        "margin_reward": 49.57957077026367
+    },
+    {
+        "action_cost": 0.0,
+        "margin_reward": 49.62051773071289
+    },
+    {
+        "action_cost": 0.0,
+        "margin_reward": 49.57878494262695
+    },
+    {
+        "action_cost": 0.0,
+        "margin_reward": 49.64837646484375
+    },
+    {
+        "action_cost": 0.0,
+        "margin_reward": 49.620216369628906
+    },
+    {
+        "action_cost": 0.0,
+        "margin_reward": 49.55402755737305
+    },
+    {
+        "action_cost": 0.0,
+        "margin_reward": 49.70277786254883
+    },
+    {
+        "action_cost": 0.0,
+        "margin_reward": 49.64592742919922
+    },
+    {
+        "action_cost": 0.0,
+        "margin_reward": 49.75112533569336
+    },
+    {
+        "action_cost": 0.0,
+        "margin_reward": 49.74381637573242
+    },
+    {
+        "action_cost": 0.0,
+        "margin_reward": 49.85466766357422
+    },
+    {
+        "action_cost": 0.0,
+        "margin_reward": 49.94365310668945
+    },
+    {
+        "action_cost": 0.0,
+        "margin_reward": 50.02394104003906
+    },
+    {
+        "action_cost": 0.0,
+        "margin_reward": 50.12868881225586
+    },
+    {
+        "action_cost": 0.0,
+        "margin_reward": 50.08219909667969
+    },
+    {
+        "action_cost": 0.0,
+        "margin_reward": 50.09672546386719
+    },
+    {
+        "action_cost": 0.0,
+        "margin_reward": 49.9945068359375
+    },
+    {
+        "action_cost": 0.0,
+        "margin_reward": 50.09678649902344
+    },
+    {
+        "action_cost": 0.0,
+        "margin_reward": 50.06407928466797
+    },
+    {
+        "action_cost": 0.0,
+        "margin_reward": 50.05190658569336
+    },
+    {
+        "action_cost": 0.0,
+        "margin_reward": 50.10441589355469
+    },
+    {
+        "action_cost": 0.0,
+        "margin_reward": 49.99199676513672
+    },
+    {
+        "action_cost": 0.0,
+        "margin_reward": 50.05364227294922
+    },
+    {
+        "action_cost": 0.0,
+        "margin_reward": 50.12626647949219
+    },
+    {
+        "action_cost": 0.0,
+        "margin_reward": 50.241432189941406
+    },
+    {
+        "action_cost": 0.0,
+        "margin_reward": 50.241455078125
+    },
+    {
+        "action_cost": 0.0,
+        "margin_reward": 50.260223388671875
+    },
+    {
+        "action_cost": 0.0,
+        "margin_reward": 50.23366928100586
+    },
+    {
+        "action_cost": 0.0,
+        "margin_reward": 50.349578857421875
+    },
+    {
+        "action_cost": 0.0,
+        "margin_reward": 50.311973571777344
+    },
+    {
+        "action_cost": 0.0,
+        "margin_reward": 50.2579345703125
+    },
+    {
+        "action_cost": 0.0,
+        "margin_reward": 50.339176177978516
+    },
+    {
+        "action_cost": 0.0,
+        "margin_reward": 50.38400650024414
+    },
+    {
+        "action_cost": 0.0,
+        "margin_reward": 50.39752197265625
+    },
+    {
+        "action_cost": 0.0,
+        "margin_reward": 50.46687316894531
+    },
+    {
+        "action_cost": 0.0,
+        "margin_reward": 50.3936767578125
+    },
+    {
+        "action_cost": 0.0,
+        "margin_reward": 50.39854049682617
+    },
+    {
+        "action_cost": 0.0,
+        "margin_reward": 50.43022918701172
+    },
+    {
+        "action_cost": 0.0,
+        "margin_reward": 50.3967399597168
+    },
+    {
+        "action_cost": 0.0,
+        "margin_reward": 50.30912399291992
+    },
+    {
+        "action_cost": 0.0,
+        "margin_reward": 50.21155548095703
+    },
+    {
+        "action_cost": 0.0,
+        "margin_reward": 50.1169548034668
+    },
+    {
+        "action_cost": 0.0,
+        "margin_reward": 50.067230224609375
+    },
+    {
+        "action_cost": 0.0,
+        "margin_reward": 49.9810791015625
+    },
+    {
+        "action_cost": 0.0,
+        "margin_reward": 49.94854736328125
+    },
+    {
+        "action_cost": 0.0,
+        "margin_reward": 49.75497817993164
+    },
+    {
+        "action_cost": 0.0,
+        "margin_reward": 49.70948791503906
+    },
+    {
+        "action_cost": 0.0,
+        "margin_reward": 49.55851745605469
+    },
+    {
+        "action_cost": 0.0,
+        "margin_reward": 49.433921813964844
+    },
+    {
+        "action_cost": 0.0,
+        "margin_reward": 49.30040740966797
+    },
+    {
+        "action_cost": 0.0,
+        "margin_reward": 49.21065902709961
+    },
+    {
+        "action_cost": 0.0,
+        "margin_reward": 49.385379791259766
+    },
+    {
+        "action_cost": 0.0,
+        "margin_reward": 49.021278381347656
+    },
+    {
+        "action_cost": 0.0,
+        "margin_reward": 48.94669723510742
+    },
+    {
+        "action_cost": 0.0,
+        "margin_reward": 49.08720397949219
+    },
+    {
+        "action_cost": 0.0,
+        "margin_reward": 48.96721649169922
+    },
+    {
+        "action_cost": 0.0,
+        "margin_reward": 48.7126350402832
+    },
+    {
+        "action_cost": 0.0,
+        "margin_reward": 48.941871643066406
+    },
+    {
+        "action_cost": 0.0,
+        "margin_reward": 48.7657470703125
+    },
+    {
+        "action_cost": 0.0,
+        "margin_reward": 48.731101989746094
+    },
+    {
+        "action_cost": 0.0,
+        "margin_reward": 48.6685676574707
+    },
+    {
+        "action_cost": 0.0,
+        "margin_reward": 48.64537048339844
+    },
+    {
+        "action_cost": 0.0,
+        "margin_reward": 49.16721725463867
+    },
+    {
+        "action_cost": 0.0,
+        "margin_reward": 49.532108306884766
+    },
+    {
+        "action_cost": 0.0,
+        "margin_reward": 49.51110076904297
+    },
+    {
+        "action_cost": 0.0,
+        "margin_reward": 49.552589416503906
+    },
+    {
+        "action_cost": 0.0,
+        "margin_reward": 48.82093048095703
+    },
+    {
+        "action_cost": 0.0,
+        "margin_reward": 48.66679382324219
+    },
+    {
+        "action_cost": 0.0,
+        "margin_reward": 49.114463806152344
+    },
+    {
+        "action_cost": 0.0,
+        "margin_reward": 48.8822021484375
+    },
+    {
+        "action_cost": 0.0,
+        "margin_reward": 49.006675720214844
+    },
+    {
+        "action_cost": 0.0,
+        "margin_reward": 49.00691223144531
+    },
+    {
+        "action_cost": 0.0,
+        "margin_reward": 48.756103515625
+    },
+    {
+        "action_cost": 0.0,
+        "margin_reward": 48.83540344238281
+    },
+    {
+        "action_cost": 0.0,
+        "margin_reward": 48.92495346069336
+    },
+    {
+        "action_cost": 0.0,
+        "margin_reward": 48.9880485534668
+    },
+    {
+        "action_cost": 0.0,
+        "margin_reward": 49.0909309387207
+    },
+    {
+        "action_cost": 0.0,
+        "margin_reward": 49.1703987121582
+    },
+    {
+        "action_cost": 0.0,
+        "margin_reward": 49.241722106933594
+    },
+    {
+        "action_cost": 0.0,
+        "margin_reward": 49.38361358642578
+    },
+    {
+        "action_cost": 0.0,
+        "margin_reward": 49.455650329589844
+    },
+    {
+        "action_cost": 0.0,
+        "margin_reward": 49.57090377807617
+    },
+    {
+        "action_cost": 0.0,
+        "margin_reward": 49.59046936035156
+    },
+    {
+        "action_cost": 0.0,
+        "margin_reward": 49.67588806152344
+    },
+    {
+        "action_cost": 0.0,
+        "margin_reward": 49.78524398803711
+    },
+    {
+        "action_cost": 0.0,
+        "margin_reward": 49.86888122558594
+    },
+    {
+        "action_cost": 0.0,
+        "margin_reward": 49.968814849853516
+    },
+    {
+        "action_cost": 0.0,
+        "margin_reward": 49.95942306518555
+    },
+    {
+        "action_cost": 0.0,
+        "margin_reward": 50.017364501953125
+    },
+    {
+        "action_cost": 0.0,
+        "margin_reward": 50.02045440673828
+    },
+    {
+        "action_cost": 0.0,
+        "margin_reward": 50.149017333984375
+    },
+    {
+        "action_cost": 0.0,
+        "margin_reward": 50.18711471557617
+    },
+    {
+        "action_cost": 0.0,
+        "margin_reward": 50.218631744384766
+    },
+    {
+        "action_cost": 0.0,
+        "margin_reward": 50.29950714111328
+    },
+    {
+        "action_cost": 0.0,
+        "margin_reward": 50.415348052978516
+    },
+    {
+        "action_cost": 0.0,
+        "margin_reward": 50.26259994506836
+    },
+    {
+        "action_cost": 0.0,
+        "margin_reward": 50.383426666259766
+    },
+    {
+        "action_cost": 0.0,
+        "margin_reward": 50.484066009521484
+    },
+    {
+        "action_cost": 0.0,
+        "margin_reward": 50.638084411621094
+    },
+    {
+        "action_cost": 0.0,
+        "margin_reward": 50.77971649169922
+    },
+    {
+        "action_cost": 0.0,
+        "margin_reward": 50.66868591308594
+    },
+    {
+        "action_cost": 0.0,
+        "margin_reward": 50.54925537109375
+    },
+    {
+        "action_cost": 0.0,
+        "margin_reward": 50.48416519165039
+    },
+    {
+        "action_cost": 0.0,
+        "margin_reward": 50.332088470458984
+    },
+    {
+        "action_cost": 0.0,
+        "margin_reward": 50.170997619628906
+    },
+    {
+        "action_cost": 0.0,
+        "margin_reward": 49.932186126708984
+    },
+    {
+        "action_cost": 0.0,
+        "margin_reward": 49.856689453125
+    },
+    {
+        "action_cost": 0.0,
+        "margin_reward": 49.82731628417969
+    },
+    {
+        "action_cost": 0.0,
+        "margin_reward": 49.72926712036133
+    },
+    {
+        "action_cost": 0.0,
+        "margin_reward": 49.69815444946289
+    },
+    {
+        "action_cost": 0.0,
+        "margin_reward": 49.74800109863281
+    },
+    {
+        "action_cost": 0.0,
+        "margin_reward": 49.77949142456055
+    },
+    {
+        "action_cost": 0.0,
+        "margin_reward": 49.90950012207031
+    },
+    {
+        "action_cost": 0.0,
+        "margin_reward": 49.95250701904297
+    },
+    {
+        "action_cost": 0.0,
+        "margin_reward": 49.880332946777344
+    },
+    {
+        "action_cost": 0.0,
+        "margin_reward": 49.916358947753906
+    },
+    {
+        "action_cost": 0.0,
+        "margin_reward": 49.89225769042969
+    },
+    {
+        "action_cost": 0.0,
+        "margin_reward": 49.939823150634766
+    },
+    {
+        "action_cost": 0.0,
+        "margin_reward": 49.903411865234375
+    },
+    {
+        "action_cost": 0.0,
+        "margin_reward": 49.92525100708008
+    },
+    {
+        "action_cost": 0.0,
+        "margin_reward": 49.975379943847656
+    },
+    {
+        "action_cost": 0.0,
+        "margin_reward": 50.002357482910156
+    },
+    {
+        "action_cost": 0.0,
+        "margin_reward": 50.14403533935547
+    },
+    {
+        "action_cost": 0.0,
+        "margin_reward": 50.02153015136719
+    },
+    {
+        "action_cost": 0.0,
+        "margin_reward": 50.192161560058594
+    },
+    {
+        "action_cost": 0.0,
+        "margin_reward": 50.357234954833984
+    },
+    {
+        "action_cost": 0.0,
+        "margin_reward": 50.6040153503418
+    },
+    {
+        "action_cost": 0.0,
+        "margin_reward": 50.71473693847656
+    },
+    {
+        "action_cost": 0.0,
+        "margin_reward": 50.90296173095703
+    },
+    {
+        "action_cost": 0.0,
+        "margin_reward": 50.95603942871094
+    },
+    {
+        "action_cost": 0.0,
+        "margin_reward": 51.081912994384766
+    },
+    {
+        "action_cost": 0.0,
+        "margin_reward": 51.23500061035156
+    },
+    {
+        "action_cost": 0.0,
+        "margin_reward": 51.270355224609375
+    },
+    {
+        "action_cost": 0.0,
+        "margin_reward": 51.30976867675781
+    },
+    {
+        "action_cost": 0.0,
+        "margin_reward": 51.352962493896484
+    },
+    {
+        "action_cost": 0.0,
+        "margin_reward": 51.41249465942383
+    },
+    {
+        "action_cost": 0.0,
+        "margin_reward": 51.40631103515625
+    },
+    {
+        "action_cost": 0.0,
+        "margin_reward": 51.33879852294922
+    },
+    {
+        "action_cost": 0.0,
+        "margin_reward": 51.4571418762207
+    },
+    {
+        "action_cost": 0.0,
+        "margin_reward": 51.439544677734375
+    },
+    {
+        "action_cost": 0.0,
+        "margin_reward": 51.357486724853516
+    },
+    {
+        "action_cost": 0.0,
+        "margin_reward": 51.46475601196289
+    },
+    {
+        "action_cost": 0.0,
+        "margin_reward": 51.50580978393555
+    },
+    {
+        "action_cost": 0.0,
+        "margin_reward": 51.480472564697266
+    },
+    {
+        "action_cost": 0.0,
+        "margin_reward": 51.340091705322266
+    },
+    {
+        "action_cost": 0.0,
+        "margin_reward": 51.263309478759766
+    },
+    {
+        "action_cost": 0.0,
+        "margin_reward": 51.311038970947266
+    },
+    {
+        "action_cost": 0.0,
+        "margin_reward": 51.254615783691406
+    },
+    {
+        "action_cost": 0.0,
+        "margin_reward": 51.23878479003906
+    },
+    {
+        "action_cost": 0.0,
+        "margin_reward": 51.17469787597656
+    },
+    {
+        "action_cost": 0.0,
+        "margin_reward": 51.006900787353516
+    },
+    {
+        "action_cost": 0.0,
+        "margin_reward": 51.03636169433594
+    },
+    {
+        "action_cost": 0.0,
+        "margin_reward": 50.88629913330078
+    },
+    {
+        "action_cost": 0.0,
+        "margin_reward": 50.77873229980469
+    },
+    {
+        "action_cost": 0.0,
+        "margin_reward": 50.80326843261719
+    },
+    {
+        "action_cost": 0.0,
+        "margin_reward": 50.52702713012695
+    },
+    {
+        "action_cost": 0.0,
+        "margin_reward": 50.295928955078125
+    },
+    {
+        "action_cost": 0.0,
+        "margin_reward": 50.387786865234375
+    },
+    {
+        "action_cost": 0.0,
+        "margin_reward": 50.03080749511719
+    },
+    {
+        "action_cost": 0.0,
+        "margin_reward": 49.7711296081543
+    },
+    {
+        "action_cost": 0.0,
+        "margin_reward": 49.546592712402344
+    },
+    {
+        "action_cost": 0.0,
+        "margin_reward": 49.53132629394531
+    },
+    {
+        "action_cost": 0.0,
+        "margin_reward": 49.4100227355957
+    },
+    {
+        "action_cost": 0.0,
+        "margin_reward": 49.070457458496094
+    },
+    {
+        "action_cost": 0.0,
+        "margin_reward": 48.931888580322266
+    },
+    {
+        "action_cost": 0.0,
+        "margin_reward": 49.048404693603516
+    },
+    {
+        "action_cost": 0.0,
+        "margin_reward": 49.163570404052734
+    },
+    {
+        "action_cost": 0.0,
+        "margin_reward": 49.02650451660156
+    },
+    {
+        "action_cost": 0.0,
+        "margin_reward": 48.81197738647461
+    },
+    {
+        "action_cost": 0.0,
+        "margin_reward": 48.981285095214844
+    },
+    {
+        "action_cost": 0.0,
+        "margin_reward": 49.1735725402832
+    },
+    {
+        "action_cost": 0.0,
+        "margin_reward": 49.01813507080078
+    },
+    {
+        "action_cost": 0.0,
+        "margin_reward": 48.856468200683594
+    },
+    {
+        "action_cost": 0.0,
+        "margin_reward": 49.07901382446289
+    },
+    {
+        "action_cost": 0.0,
+        "margin_reward": 49.13054656982422
+    },
+    {
+        "action_cost": 0.0,
+        "margin_reward": 49.153995513916016
+    },
+    {
+        "action_cost": 0.0,
+        "margin_reward": 49.51035690307617
+    },
+    {
+        "action_cost": 0.0,
+        "margin_reward": 49.5532112121582
+    },
+    {
+        "action_cost": 0.0,
+        "margin_reward": 49.853572845458984
+    },
+    {
+        "action_cost": 0.0,
+        "margin_reward": 50.14851379394531
+    },
+    {
+        "action_cost": 0.0,
+        "margin_reward": 50.33205795288086
+    },
+    {
+        "action_cost": 0.0,
+        "margin_reward": 50.378929138183594
+    },
+    {
+        "action_cost": 0.0,
+        "margin_reward": 50.857425689697266
+    },
+    {
+        "action_cost": 0.0,
+        "margin_reward": 50.86336135864258
+    },
+    {
+        "action_cost": 0.0,
+        "margin_reward": 51.14524841308594
+    },
+    {
+        "action_cost": 0.0,
+        "margin_reward": 51.27211380004883
+    },
+    {
+        "action_cost": 0.0,
+        "margin_reward": 51.406497955322266
+    },
+    {
+        "action_cost": 0.0,
+        "margin_reward": 51.66072082519531
+    },
+    {
+        "action_cost": 0.0,
+        "margin_reward": 51.7375602722168
+    },
+    {
+        "action_cost": 0.0,
+        "margin_reward": 51.94393539428711
+    },
+    {
+        "action_cost": 0.0,
+        "margin_reward": 51.965152740478516
+    },
+    {
+        "action_cost": 0.0,
+        "margin_reward": 52.067256927490234
+    },
+    {
+        "action_cost": 0.0,
+        "margin_reward": 52.1762809753418
+    },
+    {
+        "action_cost": 0.0,
+        "margin_reward": 52.18235778808594
+    },
+    {
+        "action_cost": 0.0,
+        "margin_reward": 52.21186447143555
+    },
+    {
+        "action_cost": 0.0,
+        "margin_reward": 52.116336822509766
+    },
+    {
+        "action_cost": 0.0,
+        "margin_reward": 52.035709381103516
+    },
+    {
+        "action_cost": 0.0,
+        "margin_reward": 51.933319091796875
+    },
+    {
+        "action_cost": 0.0,
+        "margin_reward": 51.88024139404297
+    },
+    {
+        "action_cost": 0.0,
+        "margin_reward": 51.797508239746094
+    },
+    {
+        "action_cost": 0.0,
+        "margin_reward": 51.73203659057617
+    },
+    {
+        "action_cost": 0.0,
+        "margin_reward": 51.60803985595703
+    },
+    {
+        "action_cost": 0.0,
+        "margin_reward": 51.466243743896484
+    },
+    {
+        "action_cost": 0.0,
+        "margin_reward": 51.3353271484375
+    },
+    {
+        "action_cost": 0.0,
+        "margin_reward": 51.205291748046875
+    },
+    {
+        "action_cost": 0.0,
+        "margin_reward": 51.070640563964844
+    },
+    {
+        "action_cost": 0.0,
+        "margin_reward": 50.92979431152344
+    },
+    {
+        "action_cost": 0.0,
+        "margin_reward": 50.72380065917969
+    },
+    {
+        "action_cost": 0.0,
+        "margin_reward": 50.47785186767578
+    },
+    {
+        "action_cost": 0.0,
+        "margin_reward": 50.39603805541992
+    },
+    {
+        "action_cost": 0.0,
+        "margin_reward": 50.23042297363281
+    },
+    {
+        "action_cost": 0.0,
+        "margin_reward": 50.03169631958008
+    },
+    {
+        "action_cost": 0.0,
+        "margin_reward": 49.95598220825195
+    },
+    {
+        "action_cost": 0.0,
+        "margin_reward": 49.93366622924805
+    },
+    {
+        "action_cost": 0.0,
+        "margin_reward": 49.82339096069336
+    },
+    {
+        "action_cost": 0.0,
+        "margin_reward": 49.8311767578125
+    },
+    {
+        "action_cost": 0.0,
+        "margin_reward": 49.76783752441406
+    },
+    {
+        "action_cost": 0.0,
+        "margin_reward": 49.714691162109375
+    },
+    {
+        "action_cost": 0.0,
+        "margin_reward": 49.62868881225586
+    },
+    {
+        "action_cost": 0.0,
+        "margin_reward": 49.523651123046875
+    },
+    {
+        "action_cost": 0.0,
+        "margin_reward": 49.457115173339844
+    },
+    {
+        "action_cost": 0.0,
+        "margin_reward": 49.377662658691406
+    },
+    {
+        "action_cost": 0.0,
+        "margin_reward": 49.27594757080078
+    },
+    {
+        "action_cost": 0.0,
+        "margin_reward": 49.131046295166016
+    },
+    {
+        "action_cost": 0.0,
+        "margin_reward": 49.06576156616211
+    },
+    {
+        "action_cost": 0.0,
+        "margin_reward": 49.05585479736328
+    },
+    {
+        "action_cost": 0.0,
+        "margin_reward": 48.96365737915039
+    },
+    {
+        "action_cost": 0.0,
+        "margin_reward": 49.074405670166016
+    },
+    {
+        "action_cost": 0.0,
+        "margin_reward": 48.93272018432617
+    },
+    {
+        "action_cost": 0.0,
+        "margin_reward": 48.81708908081055
+    },
+    {
+        "action_cost": 0.0,
+        "margin_reward": 48.73622512817383
+    },
+    {
+        "action_cost": 0.0,
+        "margin_reward": 48.70323181152344
+    },
+    {
+        "action_cost": 0.0,
+        "margin_reward": 48.546287536621094
+    },
+    {
+        "action_cost": 0.0,
+        "margin_reward": 48.66273498535156
+    },
+    {
+        "action_cost": 0.0,
+        "margin_reward": 48.61634063720703
+    },
+    {
+        "action_cost": 0.0,
+        "margin_reward": 48.55913162231445
+    },
+    {
+        "action_cost": 0.0,
+        "margin_reward": 48.55936813354492
+    },
+    {
+        "action_cost": 0.0,
+        "margin_reward": 48.54914093017578
+    },
+    {
+        "action_cost": 0.0,
+        "margin_reward": 48.39655685424805
+    },
+    {
+        "action_cost": 0.0,
+        "margin_reward": 48.43752670288086
+    },
+    {
+        "action_cost": 0.0,
+        "margin_reward": 48.38745880126953
+    },
+    {
+        "action_cost": 0.0,
+        "margin_reward": 48.26213073730469
+    },
+    {
+        "action_cost": 0.0,
+        "margin_reward": 48.128761291503906
+    },
+    {
+        "action_cost": 0.0,
+        "margin_reward": 48.19562530517578
+    },
+    {
+        "action_cost": 0.0,
+        "margin_reward": 48.016845703125
+    },
+    {
+        "action_cost": 0.0,
+        "margin_reward": 48.87698745727539
+    },
+    {
+        "action_cost": 0.0,
+        "margin_reward": 48.8299560546875
+    },
+    {
+        "action_cost": 0.0,
+        "margin_reward": 48.85236358642578
+    },
+    {
+        "action_cost": 0.0,
+        "margin_reward": 48.85169982910156
+    },
+    {
+        "action_cost": 0.0,
+        "margin_reward": 47.82048034667969
+    },
+    {
+        "action_cost": 0.0,
+        "margin_reward": 48.08500289916992
+    },
+    {
+        "action_cost": 0.0,
+        "margin_reward": 47.968143463134766
+    },
+    {
+        "action_cost": 0.0,
+        "margin_reward": 47.845001220703125
+    },
+    {
+        "action_cost": 0.0,
+        "margin_reward": 48.947628021240234
+    },
+    {
+        "action_cost": 0.0,
+        "margin_reward": 48.7331657409668
+    },
+    {
+        "action_cost": 0.0,
+        "margin_reward": 48.76201248168945
+    },
+    {
+        "action_cost": 0.0,
+        "margin_reward": 48.68987274169922
+    },
+    {
+        "action_cost": 0.0,
+        "margin_reward": 47.55084991455078
+    },
+    {
+        "action_cost": 0.0,
+        "margin_reward": 47.988197326660156
+    },
+    {
+        "action_cost": 0.0,
+        "margin_reward": 47.88313674926758
+    },
+    {
+        "action_cost": 0.0,
+        "margin_reward": 47.74694061279297
+    },
+    {
+        "action_cost": 0.0,
+        "margin_reward": 48.77216720581055
+    },
+    {
+        "action_cost": 0.0,
+        "margin_reward": 48.517818450927734
+    },
+    {
+        "action_cost": 0.0,
+        "margin_reward": 48.577667236328125
+    },
+    {
+        "action_cost": 0.0,
+        "margin_reward": 48.56462478637695
+    },
+    {
+        "action_cost": 0.0,
+        "margin_reward": 47.40827178955078
+    },
+    {
+        "action_cost": 0.0,
+        "margin_reward": 47.76322937011719
+    },
+    {
+        "action_cost": 0.0,
+        "margin_reward": 47.76240158081055
+    },
+    {
+        "action_cost": 0.0,
+        "margin_reward": 47.80736541748047
+    },
+    {
+        "action_cost": 0.0,
+        "margin_reward": 48.28119659423828
+    },
+    {
+        "action_cost": 0.0,
+        "margin_reward": 48.1037712097168
+    },
+    {
+        "action_cost": 0.0,
+        "margin_reward": 48.23856735229492
+    },
+    {
+        "action_cost": 0.0,
+        "margin_reward": 48.291099548339844
+    },
+    {
+        "action_cost": 0.0,
+        "margin_reward": 47.81324005126953
+    },
+    {
+        "action_cost": 0.0,
+        "margin_reward": 48.12217712402344
+    },
+    {
+        "action_cost": 0.0,
+        "margin_reward": 48.1103401184082
+    },
+    {
+        "action_cost": 0.0,
+        "margin_reward": NaN
+    }
+]

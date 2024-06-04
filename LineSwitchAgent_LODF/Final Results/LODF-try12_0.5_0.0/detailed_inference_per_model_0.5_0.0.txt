@@ -1,0 +1,36 @@
+
+model: 53000_
+Average Values Below Rho: [98.17888653402207, 1.8211134659779138, 0.0]
+Average Values Above Rho: [18.188685861061607, 6.4910802682505615, 75.32023387068782]
+Average ST: 6813.65625
+Average Cumulative RL Reward: 5831.893613821627
+Average Cumulative Margin Reward: 343689.969383955
+Average Margin to ST Ratio: 49.82535323072492
+Average Action Diversity: 16.09375
+
+Overall Performance Average:
+Average Values Below Rho: [98.17888653402207, 1.8211134659779138, 0.0]
+Average Values Above Rho: [18.188685861061607, 6.4910802682505615, 75.32023387068782]
+Average ST: 6813.65625
+Average Cumulative RL Reward: 5831.893613821627
+Average Cumulative Margin Reward: 343689.969383955
+Average Margin to ST Ratio: 49.82535323072492
+Average Action Diversity: 16.09375
+
+model: 65000_
+Average Values Below Rho: [98.11583962622628, 1.884160373773734, 0.0]
+Average Values Above Rho: [22.127700962953526, 5.501565996023064, 72.37073304102341]
+Average ST: 6861.40625
+Average Cumulative RL Reward: 5868.109254967636
+Average Cumulative Margin Reward: 345821.6407176256
+Average Margin to ST Ratio: 49.81922760925595
+Average Action Diversity: 16.65625
+
+Overall Performance Average:
+Average Values Below Rho: [98.11583962622628, 1.884160373773734, 0.0]
+Average Values Above Rho: [22.127700962953526, 5.501565996023064, 72.37073304102341]
+Average ST: 6861.40625
+Average Cumulative RL Reward: 5868.109254967636
+Average Cumulative Margin Reward: 345821.6407176256
+Average Margin to ST Ratio: 49.81922760925595
+Average Action Diversity: 16.65625
