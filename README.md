@@ -1,6 +1,15 @@
 # Physics-Guided-Blackout-Mitigation
 Source code for the paper Blackout Mitigation via Physics-guided RL. Built with TensorFlow.
 
+## Installation
+More on these soon...
+
+### Requirements
+
+### How to use the Physics-Guided Agent?
+
+### Additional Information
+
 
 ## Citing
 If you find this repository useful in your work, we kindly request that you cite the following [paper](https://arxiv.org/abs/2401.09640): :
