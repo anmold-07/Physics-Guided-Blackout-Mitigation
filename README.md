@@ -12,7 +12,7 @@ More on these soon...
 
 
 ## Citing
-If you find this repository useful in your work, we kindly request that you cite the following [paper](https://arxiv.org/abs/2401.09640): :
+If you find this repository useful in your work, we kindly request that you cite the following [paper](https://arxiv.org/abs/2401.09640):
 ```
 @article{dwivedi2024blackout,
   title={Blackout Mitigation via Physics-guided RL},
